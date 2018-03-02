@@ -1,0 +1,72 @@
+<application>
+  <component name="FindRecents">
+    <findStrings>
+      <find>specific</find>
+      <find>（</find>
+      <find>vidExpand</find>
+      <find>contentId</find>
+      <find>writeSize</find>
+      <find>dataFileLines</find>
+      <find>没有这个属性</find>
+      <find>zkhost</find>
+      <find>com.rainsoft.common</find>
+      <find>searchEngine</find>
+      <find>result</find>
+      <find>checkException</find>
+      <find>title</find>
+      <find>request</find>
+      <find>xml</find>
+      <find>contSearch</find>
+      <find>ZIP_PATH</find>
+      <find>service_code_out</find>
+      <find>\n</find>
+      <find>nn1.hadoop.com</find>
+      <find>196.168</find>
+      <find>数据成功</find>
+      <find>oracle_reg_content_</find>
+      <find>IOUtils</find>
+      <find>HttpSolrClient</find>
+      <find>solrCloudClient</find>
+      <find>mapPartitions</find>
+      <find>parallelize</find>
+      <find>createstructtype</find>
+      <find>DATE_TIME_FORMAT</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>ACCOUNT√</replace>
+      <replace>ACOUNT_NAME√</replace>
+      <replace>ACTION_TYPE√</replace>
+      <replace>string</replace>
+      <replace>indexed=&quot;false&quot;</replace>
+      <replace>&quot;BCP文件名称:&quot;+checkEmptyfield</replace>
+      <replace>capture_time</replace>
+      <replace>SparkJob</replace>
+      <replace>bbs</replace>
+      <replace>00-08-22-0A-F0-FB</replace>
+      <replace />
+      <replace>= &quot;&quot;;</replace>
+      <replace>WEIGHT_ADD</replace>
+      <replace>WEIGHT_YESTERDAY</replace>
+      <replace>WEIGHT_REDUCE</replace>
+      <replace>\t</replace>
+      <replace>curr_</replace>
+      <replace>separator</replace>
+      <replace>,</replace>
+      <replace>last_capture_time</replace>
+      <replace>)</replace>
+      <replace>mysql_</replace>
+      <replace>Constants</replace>
+      <replace>Constants.EMPHASIS_DOUBTFUL_PERIOD</replace>
+      <replace>sn_code</replace>
+      <replace>hist</replace>
+      <replace>emphasis</replace>
+      <replace>VARCHAR</replace>
+      <replace>(</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>D:\Program Files\Java\JetBrains\workspace\cmcc\spark\src\cmcc\sh\oa\service</dir>
+      <dir>D:\Program Files\Java\JetBrains\workspace\tysz2012</dir>
+      <dir>D:\0WorkSpace\JetBrains\yisou\yisou-search\src\main\resources\spring</dir>
+    </dirStrings>
+  </component>
+</application>

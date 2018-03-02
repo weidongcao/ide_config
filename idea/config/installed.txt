@@ -1,0 +1,7 @@
+BashSupport
+GenerateSerialVersionUID
+IdeaVIM
+Key promoter
+MavenRunHelper
+Pythonid
+org.intellij.scala

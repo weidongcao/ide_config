@@ -1,0 +1,17 @@
+<application>
+  <component name="MavenServices">
+    <service-url>https://oss.sonatype.org/service/local/</service-url>
+    <service-url>http://repo.jfrog.org/artifactory/api/</service-url>
+    <service-url>https://repository.jboss.org/nexus/service/local/</service-url>
+    <service-url>https://repository.apache.org/content/repositories/releases</service-url>
+    <service-url>https://repository.cloudera.com/cloudera/cloudera-repos/</service-url>
+    <service-url>http://maven.oschina.net/content/groups/public/</service-url>
+    <service-url>https://repository.jboss.org/nexus/content/repositories/releases</service-url>
+    <service-url>https://repo.eclipse.org/content/repositories/paho-releases</service-url>
+    <service-url>https://repository.cloudera.com/artifactory/cloudera-repos</service-url>
+    <service-url>https://oss.sonatype.org/content/repositories/orgspark-project-1113</service-url>
+    <service-url>http://repository.mapr.com/maven/</service-url>
+    <service-url>https://repo.spring.io/libs-release</service-url>
+    <service-url>http://maven.twttr.com</service-url>
+  </component>
+</application>

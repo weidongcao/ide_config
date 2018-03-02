@@ -1,0 +1,799 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/java/com/rainsoft/j2se/TestReflect.java" timestamp="1516073820795">
+        <mark key="[" line="20" column="36" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
+      <file name="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/java/com/rainsoft/j2se/ListSort.java" timestamp="1509530709161">
+        <mark key="[" line="19" column="37" />
+        <mark key="]" line="19" column="37" />
+        <mark key="." line="19" column="37" />
+      </file>
+      <file name="D:/0WorkSpace/JetBrains/HanLP/src/test/java/com/hankcs/demo/DemoNewWordDiscover.java" timestamp="1510736271288">
+        <mark key="[" line="29" column="93" />
+        <mark key="]" line="29" column="93" />
+        <mark key="." line="29" column="93" />
+      </file>
+      <file name="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/java/com/rainsoft/solr/BbsOracleDataExport.java" timestamp="1514970245003">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="24" column="93" />
+        <mark key="." line="22" column="0" />
+      </file>
+      <file name="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/java/com/rainsoft/design/decorate/Circle.java" timestamp="1510645389810">
+        <mark key="[" line="2" column="3" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/java/com/rainsoft/hbase/solr/EmailImportSolrBase.java" timestamp="1516868886948">
+        <mark key="[" line="79" column="33" />
+        <mark key="]" line="82" column="70" />
+        <mark key="." line="82" column="0" />
+      </file>
+      <file name="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/java/com/rainsoft/bcp/EmailBcpImport.java" timestamp="1517383454341">
+        <mark key="[" line="6" column="3" />
+        <mark key="]" line="6" column="3" />
+        <mark key="." line="6" column="3" />
+      </file>
+      <file name="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/java/com/rainsoft/bcp/RealBcpImport.java" timestamp="1517383495333">
+        <mark key="[" line="6" column="3" />
+        <mark key="]" line="6" column="3" />
+        <mark key="." line="6" column="3" />
+      </file>
+      <file name="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/java/com/rainsoft/guava/OptionalTest.java" timestamp="1516100894482">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="D:/0WorkSpace/JetBrains/isec-center/center-schedule/src/main/resources/server.properties" timestamp="1515812652144">
+        <mark key="[" line="17" column="122" />
+        <mark key="]" line="17" column="122" />
+        <mark key="." line="17" column="122" />
+      </file>
+      <file name="D:/0WorkSpace/JetBrains/isec-center/center-common/pom.xml" timestamp="1515746453420">
+        <mark key="[" line="37" column="21" />
+        <mark key="]" line="37" column="21" />
+        <mark key="." line="37" column="21" />
+      </file>
+      <file name="D:/0WorkSpace/JetBrains/beijingThirdPeriod/pom.xml" timestamp="1517799798670">
+        <mark key="'" line="198" column="64" />
+        <mark key="[" line="205" column="24" />
+        <mark key="]" line="205" column="24" />
+        <mark key="." line="205" column="24" />
+      </file>
+      <file name="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/java/com/rainsoft/guava/MuliCollectionTest.java" timestamp="1517552992705">
+        <mark key="'" line="38" column="8" />
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="^" line="54" column="40" />
+        <mark key="." line="58" column="0" />
+      </file>
+      <file name="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/java/com/rainsoft/bcp/yuntan/BcpImportHBaseSolrService.java" timestamp="1517277615922">
+        <mark key="[" line="106" column="46" />
+        <mark key="]" line="106" column="46" />
+        <mark key="." line="106" column="46" />
+        <mark key="^" line="79" column="56" />
+      </file>
+      <file name="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/java/com/rainsoft/guava/ThrowablesTest.java" timestamp="1516333629165">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+      </file>
+      <file name="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/java/com/rainsoft/utils/ThreadUtils.java" timestamp="1508755166310">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
+      <file name="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/java/com/rainsoft/guava/PersonComparator.java" timestamp="1516188866225">
+        <mark key="[" line="9" column="29" />
+      </file>
+      <file name="D:/0WorkSpace/JetBrains/isec-center/center-common/src/main/java/com/nebuinfo/isec/center/utils/ISecUtils.java" timestamp="1515748276204">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
+      <file name="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/java/com/rainsoft/design/decorate/Rectangle.java" timestamp="1510645398914">
+        <mark key="[" line="2" column="3" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/java/com/rainsoft/bcp/FtpBcpImport.java" timestamp="1517383398926">
+        <mark key="[" line="6" column="3" />
+        <mark key="]" line="6" column="3" />
+        <mark key="." line="6" column="3" />
+      </file>
+      <file name="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/java/com/rainsoft/guava/Persion.java" timestamp="1516188554138">
+        <mark key="[" line="6" column="50" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/java/com/rainsoft/bcp/EndingTrackBcpImport.java" timestamp="1517366737027">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="20" column="45" />
+      </file>
+      <file name="D:/0WorkSpace/JetBrains/guanzong/src/main/webapp/index.js" timestamp="1519720362571">
+        <mark key="'" line="0" column="4101" />
+      </file>
+      <file name="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/java/com/rainsoft/hbase/solr/FtpImportSolrBase.java" timestamp="1516869035086">
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="65" />
+        <mark key="." line="72" column="0" />
+      </file>
+      <file name="D:/0WorkSpace/JetBrains/guanzong/src/main/java/com/nebuinfo/spark/streaming/JavaKafkaWordCount.java" timestamp="1512012258229">
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="0" />
+        <mark key="." line="69" column="0" />
+      </file>
+      <file name="D:/0WorkSpace/JetBrains/yisou/yisou-search/src/main/java/com/rainsoft/search/service/Test.java" timestamp="1515842730365">
+        <mark key="[" line="11" column="63" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
+      <file name="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/java/com/rainsoft/solr/demo/SolrAliasTest.java" timestamp="1516676938751">
+        <mark key="[" line="32" column="43" />
+        <mark key="]" line="32" column="43" />
+        <mark key="." line="32" column="43" />
+      </file>
+      <file name="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/java/com/rainsoft/solr/demo/SolrHttpConnection.java" timestamp="1517193584202">
+        <mark key="[" line="38" column="59" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
+      </file>
+      <file name="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/resources/columns.json" timestamp="1517463760960">
+        <mark key="'" line="149" column="9" />
+        <mark key="[" line="184" column="18" />
+        <mark key="]" line="220" column="11" />
+        <mark key="." line="184" column="18" />
+        <mark key="^" line="221" column="5" />
+      </file>
+      <file name="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/resources/assembly/package.xml" timestamp="1511256190070">
+        <mark key="[" line="88" column="0" />
+        <mark key="]" line="88" column="0" />
+        <mark key="." line="88" column="0" />
+      </file>
+      <file name="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/java/com/rainsoft/java8/TestJava8.java" timestamp="1519549259929">
+        <mark key="[" line="12" column="108" />
+        <mark key="]" line="13" column="7" />
+        <mark key="^" line="13" column="7" />
+        <mark key="." line="13" column="7" />
+      </file>
+      <file name="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/java/com/rainsoft/utils/SparkUtils.java" timestamp="1517370427318">
+        <mark key="[" line="39" column="14" />
+        <mark key="]" line="39" column="14" />
+        <mark key="." line="39" column="14" />
+      </file>
+      <file name="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/scripts/Isec管理综合平台Hive映射HBase外部表.sql" timestamp="1517214261324">
+        <mark key="[" line="441" column="0" />
+        <mark key="]" line="441" column="0" />
+        <mark key="^" line="46" column="58" />
+        <mark key="." line="441" column="0" />
+      </file>
+      <file name="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/java/com/rainsoft/lang3/TestArrayUtils.java" timestamp="1517283520857">
+        <mark key="[" line="12" column="42" />
+        <mark key="]" line="12" column="64" />
+        <mark key="." line="12" column="64" />
+        <mark key="^" line="12" column="64" />
+      </file>
+      <file name="D:/0WorkSpace/JetBrains/yisou/yisou-search/src/main/java/com/rainsoft/search/bean/BaseDict.java" timestamp="1515815681297">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+      </file>
+      <file name="D:/0WorkSpace/JetBrains/guanzong/src/main/resources/spring/spring-datasource.xml" timestamp="1510822452689">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+      </file>
+      <file name="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/java/com/rainsoft/hbase/solr/RealidImportSolrBase.java" timestamp="1516869102631">
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="65" />
+        <mark key="." line="72" column="0" />
+      </file>
+      <file name="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/java/com/rainsoft/jackson/TestJackson.java" timestamp="1512451167198">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/java/com/rainsoft/hbase/solr/ImchatImportSolrBase.java" timestamp="1516868851289">
+        <mark key="[" line="70" column="33" />
+        <mark key="]" line="73" column="70" />
+        <mark key="." line="73" column="0" />
+      </file>
+      <file name="D:/0WorkSpace/JetBrains/isec-center/center-schedule/src/main/resources/app/accompanyAnalysis.xml" timestamp="1516245140136">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="13" column="19" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/java/com/rainsoft/utils/BcpUtils.java" timestamp="1512703833561">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/java/com/rainsoft/BigDataConstants.java" timestamp="1512530496834">
+        <mark key="[" line="9" column="45" />
+        <mark key="]" line="9" column="45" />
+        <mark key="." line="9" column="45" />
+      </file>
+      <file name="D:/0WorkSpace/JetBrains/beijingThirdPeriod-parent_2.10/beijingThirdPeriod/pom.xml" timestamp="1512359549189">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/java/com/rainsoft/j2se/ArrayTest.java" timestamp="1517472139997">
+        <mark key="[" line="11" column="44" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
+      <file name="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/java/com/rainsoft/bcp/BbsBcpImport.java" timestamp="1517383338844">
+        <mark key="[" line="6" column="3" />
+        <mark key="]" line="6" column="3" />
+        <mark key="." line="6" column="3" />
+        <mark key="^" line="6" column="2" />
+      </file>
+      <file name="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/java/com/rainsoft/hbase/solr/ServiceImportSolrBase.java" timestamp="1516869018817">
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="65" />
+        <mark key="." line="73" column="0" />
+      </file>
+      <file name="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/java/com/rainsoft/hbase/solr/ShopImportSolrBase.java" timestamp="1516868948442">
+        <mark key="[" line="77" column="33" />
+        <mark key="]" line="80" column="70" />
+        <mark key="." line="80" column="0" />
+      </file>
+      <file name="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/java/com/rainsoft/solr/RunOracleBigTableExport.java" timestamp="1517193941838">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
+      <file name="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/java/com/rainsoft/solr/RunOracleAllTableExport.java" timestamp="1517468437578">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+      </file>
+      <file name="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/java/com/rainsoft/j2se/SparkSQLTest.java" timestamp="1514869326733">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
+      <file name="D:/0WorkSpace/JetBrains/HanLP/src/main/java/com/hankcs/hanlp/HanLP.java" timestamp="1510736940588">
+        <mark key="[" line="620" column="41" />
+        <mark key="]" line="620" column="41" />
+        <mark key="." line="620" column="41" />
+      </file>
+      <file name="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/java/com/rainsoft/bcp/VidBcpImport.java" timestamp="1517383469396">
+        <mark key="[" line="6" column="3" />
+        <mark key="]" line="6" column="3" />
+        <mark key="." line="6" column="3" />
+      </file>
+      <file name="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/java/com/rainsoft/utils/SolrUtil.java" timestamp="1517370745395">
+        <mark key="[" line="39" column="27" />
+        <mark key="]" line="39" column="27" />
+        <mark key="^" line="57" column="45" />
+        <mark key="." line="39" column="27" />
+      </file>
+      <file name="D:/0WorkSpace/JetBrains/guanzong/src/main/java/com/nebuinfo/bcp/StreamingImportBcpToHBaseAndSolr.java" timestamp="1512120665494">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
+      <file name="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/java/com/rainsoft/hbase/solr/BbsImportSolrBase.java" timestamp="1512711751059">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+      </file>
+      <file name="D:/0WorkSpace/JetBrains/yisou/yisou-search/src/main/java/com/rainsoft/search/utils/Utils.java" timestamp="1515828960865">
+        <mark key="[" line="213" column="0" />
+        <mark key="]" line="213" column="0" />
+        <mark key="." line="213" column="0" />
+      </file>
+      <file name="D:/0WorkSpace/JetBrains/isec-center/center-common/src/main/java/com/nebuinfo/isec/center/utils/ISecHBaseUtils.java" timestamp="1515752369028">
+        <mark key="[" line="20" column="153" />
+        <mark key="]" line="20" column="153" />
+        <mark key="." line="20" column="153" />
+      </file>
+      <file name="D:/0WorkSpace/JetBrains/isec-center/center-schedule/src/main/java/com/nebuinfo/isec/center/schedule/stat/accompany/AccompanyMacAnalysis.java" timestamp="1519795558022" />
+      <file name="D:/0WorkSpace/JetBrains/yisou/yisou-search/src/main/resources/solr-yisou.json" timestamp="1517385720003">
+        <mark key="[" line="225" column="18" />
+        <mark key="]" line="225" column="18" />
+        <mark key="." line="225" column="18" />
+      </file>
+      <file name="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/java/com/rainsoft/solr/schema/DatePointField.java" timestamp="1516695603507">
+        <mark key="[" line="265" column="3" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/java/com/rainsoft/guava/ImmutableTest.java" timestamp="1517399325070">
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/java/com/rainsoft/bcp/yuntan/old1/BcpImportHBaseSolrService.java" timestamp="1517220594448">
+        <mark key="[" line="186" column="0" />
+        <mark key="]" line="186" column="0" />
+        <mark key="^" line="204" column="67" />
+        <mark key="." line="186" column="0" />
+      </file>
+      <file name="D:/0WorkSpace/JetBrains/guanzong/src/main/webapp/金十数据 官方网站 - 为交易而生！.html" timestamp="1519723637409">
+        <mark key="'" line="8157" column="9" />
+        <mark key="[" line="8162" column="39" />
+        <mark key="]" line="8162" column="52" />
+        <mark key="^" line="8164" column="27" />
+        <mark key="." line="8166" column="0" />
+      </file>
+      <file name="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/java/com/rainsoft/hbase/HBaseApp.java" timestamp="1514869723296">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
+      <file name="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/java/com/rainsoft/bcp/yuntan/old2/Main.java" timestamp="1517283722931">
+        <mark key="[" line="86" column="63" />
+        <mark key="]" line="86" column="63" />
+        <mark key="." line="86" column="63" />
+        <mark key="^" line="86" column="57" />
+      </file>
+      <file name="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/java/com/rainsoft/hbase/solr/HttpImportSolrBase.java" timestamp="1516869047942">
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="65" />
+        <mark key="." line="73" column="0" />
+      </file>
+      <file name="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/java/com/rainsoft/utils/DateFormatUtils.java" timestamp="1516871125662">
+        <mark key="[" line="16" column="35" />
+        <mark key="]" line="16" column="35" />
+        <mark key="." line="16" column="35" />
+      </file>
+      <file name="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/java/com/rainsoft/bcp/RunBcpImport.java" timestamp="1517468470648">
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
+        <mark key="^" line="67" column="11" />
+      </file>
+      <file name="D:/0WorkSpace/JetBrains/beijingThirdPeriod/README.md" timestamp="1517475331485">
+        <mark key="[" line="36" column="25" />
+        <mark key="]" line="36" column="25" />
+        <mark key="." line="36" column="25" />
+      </file>
+      <file name="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/java/com/rainsoft/j2se/TestSolr.java" timestamp="1517455181787">
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+      </file>
+      <file name="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/java/com/codewars/java/ImplicitDemo.scala" timestamp="1517306820360">
+        <mark key="[" line="8" column="5" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/java/com/rainsoft/spark/TestSparkConnectOracle.java" timestamp="1514867518812">
+        <mark key="[" line="30" column="17" />
+        <mark key="]" line="30" column="17" />
+        <mark key="." line="30" column="17" />
+      </file>
+      <file name="D:/0WorkSpace/JetBrains/isec-center/center-schedule/src/main/java/com/nebuinfo/isec/center/schedule/stat/accompany/AccompanyAnalysisScanFactoryImpl.java" timestamp="1519795204585">
+        <mark key="[" line="14" column="61" />
+        <mark key="]" line="14" column="61" />
+        <mark key="." line="14" column="61" />
+      </file>
+      <file name="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/java/com/rainsoft/bcp/BaseBcpImportHBaseSolr.java" timestamp="1517881209720">
+        <mark key="'" line="219" column="24" />
+        <mark key="[" line="219" column="45" />
+        <mark key="]" line="219" column="67" />
+        <mark key="." line="219" column="45" />
+      </file>
+      <file name="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/java/com/rainsoft/utils/DateUtils.java" timestamp="1516871081022">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/java/com/rainsoft/bcp/yuntan/old1/BcpFileImport.java" timestamp="1517283837213">
+        <mark key="[" line="121" column="63" />
+        <mark key="]" line="121" column="63" />
+        <mark key="." line="121" column="63" />
+        <mark key="^" line="121" column="57" />
+      </file>
+      <file name="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/java/org/apache/solr/schema/TrieDateField.java" timestamp="1516334322884">
+        <mark key="[" line="28" column="3" />
+        <mark key="]" line="28" column="3" />
+        <mark key="." line="28" column="3" />
+      </file>
+      <file name="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/java/com/rainsoft/j2se/TestSpark.java" timestamp="1517380020552">
+        <mark key="[" line="31" column="29" />
+        <mark key="]" line="50" column="99" />
+        <mark key="." line="50" column="99" />
+        <mark key="^" line="50" column="99" />
+      </file>
+      <file name="D:/0WorkSpace/JetBrains/guanzong/src/main/resources/assembly/package.xml" timestamp="1511243212903">
+        <mark key="[" line="89" column="0" />
+        <mark key="]" line="89" column="0" />
+        <mark key="." line="89" column="0" />
+      </file>
+      <file name="D:/0WorkSpace/JetBrains/yisou/yisou-search/src/main/java/com/rainsoft/search/utils/ReflectUtils.java" timestamp="1516010213232">
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="0" />
+        <mark key="." line="71" column="0" />
+      </file>
+      <file name="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/resources/application.properties" timestamp="1517540351515">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="16" />
+        <mark key="^" line="27" column="22" />
+        <mark key="." line="27" column="22" />
+      </file>
+      <file name="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/java/com/rainsoft/hbase/solr/VidImportSolrBase.java" timestamp="1516869093458">
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="69" />
+        <mark key="." line="73" column="0" />
+      </file>
+      <file name="D:/0WorkSpace/JetBrains/guanzong/src/main/resources/spring/spring-service.xml" timestamp="1510822429286">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/java/com/codewars/java/WhichAreIn.java" timestamp="1515469679174">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1519795942122">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/0WorkSpace/JetBrains/HanLP/src/main/resources/hanlp.properties" timestamp="1510735482485">
+        <mark key="[" line="3" column="5" />
+        <mark key="]" line="3" column="5" />
+        <mark key="." line="3" column="5" />
+      </file>
+      <file name="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/java/com/rainsoft/bcp/FtpBcpImportHBaseSolr.java" timestamp="1512717222077">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
+      <file name="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/java/com/rainsoft/bcp/WeiboBcpImport.java" timestamp="1517383438656">
+        <mark key="[" line="6" column="3" />
+        <mark key="]" line="6" column="3" />
+        <mark key="." line="6" column="3" />
+      </file>
+      <file name="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/java/com/codewars/java/ImplicitClassDemo.scala" timestamp="1517364764721">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="D:/0WorkSpace/JetBrains/guanzong/src/main/scala/com/nebuinfo/spark/streaming/StreamingLogLevels.scala" timestamp="1511338513185">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/java/com/rainsoft/hbase/solr/WeiboImportSolrBase.java" timestamp="1516869055529">
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="69" />
+        <mark key="." line="71" column="0" />
+      </file>
+      <file name="D:/0WorkSpace/JetBrains/isec-center/center-stream/src/main/java/com/nebuinfo/isec/center/stream/base/SolrParser.java" timestamp="1519795496389">
+        <mark key="[" line="30" column="39" />
+        <mark key="]" line="30" column="39" />
+        <mark key="." line="30" column="39" />
+      </file>
+      <file name="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/java/com/rainsoft/solr/RunOracleSmallTableExport.java" timestamp="1517193986015">
+        <mark key="[" line="9" column="14" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/java/com/rainsoft/bcp/HttpBcpImport.java" timestamp="1517383210423">
+        <mark key="[" line="13" column="39" />
+        <mark key="]" line="13" column="38" />
+        <mark key="." line="13" column="38" />
+        <mark key="^" line="13" column="38" />
+      </file>
+      <file name="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/java/com/rainsoft/dao/impl/FtpDaoImpl.java" timestamp="1511840339281">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="90" />
+        <mark key="." line="47" column="102" />
+      </file>
+      <file name="D:/0WorkSpace/JetBrains/guanzong/src/main/resources/spring/spring-dao.xml" timestamp="1510822414440">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="D:/0WorkSpace/JetBrains/yisou/yisou-search/pom.xml" timestamp="1517904791616">
+        <mark key="'" line="54" column="36" />
+        <mark key="[" line="24" column="27" />
+        <mark key="]" line="24" column="42" />
+        <mark key="." line="24" column="27" />
+        <mark key="^" line="22" column="29" />
+      </file>
+      <file name="/fragment.java" timestamp="1517472155446">
+        <mark key="[" line="0" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="224" column="11" filename="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/resources/columns.json" />
+      <jump line="228" column="7" filename="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/resources/columns.json" />
+      <jump line="266" column="11" filename="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/resources/columns.json" />
+      <jump line="270" column="7" filename="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/resources/columns.json" />
+      <jump line="307" column="11" filename="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/resources/columns.json" />
+      <jump line="311" column="7" filename="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/resources/columns.json" />
+      <jump line="348" column="11" filename="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/resources/columns.json" />
+      <jump line="351" column="7" filename="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/resources/columns.json" />
+      <jump line="391" column="11" filename="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/resources/columns.json" />
+      <jump line="394" column="7" filename="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/resources/columns.json" />
+      <jump line="420" column="11" filename="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/resources/columns.json" />
+      <jump line="423" column="7" filename="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/resources/columns.json" />
+      <jump line="497" column="7" filename="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/resources/columns.json" />
+      <jump line="567" column="5" filename="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/resources/columns.json" />
+      <jump line="568" column="14" filename="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/resources/columns.json" />
+      <jump line="569" column="11" filename="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/resources/columns.json" />
+      <jump line="570" column="10" filename="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/resources/columns.json" />
+      <jump line="19" column="11" filename="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/resources/columns.json" />
+      <jump line="27" column="54" filename="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/java/com/rainsoft/utils/SolrUtil.java" />
+      <jump line="26" column="54" filename="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/java/com/rainsoft/utils/SolrUtil.java" />
+      <jump line="532" column="7" filename="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/resources/columns.json" />
+      <jump line="533" column="5" filename="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/resources/columns.json" />
+      <jump line="93" column="8" filename="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/java/com/rainsoft/bcp/HttpBcpImport.java" />
+      <jump line="63" column="4" filename="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/java/com/rainsoft/bcp/HttpBcpImport.java" />
+      <jump line="196" column="4" filename="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/java/com/rainsoft/bcp/BaseBcpImportHBaseSolr.java" />
+      <jump line="231" column="5" filename="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/java/com/rainsoft/bcp/BaseBcpImportHBaseSolr.java" />
+      <jump line="203" column="0" filename="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/java/com/rainsoft/bcp/BaseBcpImportHBaseSolr.java" />
+      <jump line="57" column="4" filename="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/java/com/rainsoft/bcp/BaseBcpImportHBaseSolr.java" />
+      <jump line="224" column="0" filename="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/java/com/rainsoft/bcp/BaseBcpImportHBaseSolr.java" />
+      <jump line="110" column="6" filename="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/java/com/rainsoft/bcp/BaseBcpImportHBaseSolr.java" />
+      <jump line="275" column="0" filename="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/java/com/rainsoft/bcp/BaseBcpImportHBaseSolr.java" />
+      <jump line="100" column="8" filename="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/java/com/rainsoft/bcp/BaseBcpImportHBaseSolr.java" />
+      <jump line="95" column="31" filename="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/java/com/rainsoft/bcp/BaseBcpImportHBaseSolr.java" />
+      <jump line="246" column="5" filename="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/java/com/rainsoft/bcp/BaseBcpImportHBaseSolr.java" />
+      <jump line="226" column="0" filename="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/java/com/rainsoft/bcp/BaseBcpImportHBaseSolr.java" />
+      <jump line="140" column="8" filename="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/java/com/rainsoft/bcp/BaseBcpImportHBaseSolr.java" />
+      <jump line="79" column="67" filename="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/java/com/rainsoft/bcp/BaseBcpImportHBaseSolr.java" />
+      <jump line="277" column="15" filename="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/java/com/rainsoft/bcp/BaseBcpImportHBaseSolr.java" />
+      <jump line="82" column="29" filename="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/java/com/rainsoft/bcp/BaseBcpImportHBaseSolr.java" />
+      <jump line="132" column="20" filename="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/resources/columns.json" />
+      <jump line="128" column="3" filename="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/resources/columns.json" />
+      <jump line="537" column="12" filename="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/resources/columns.json" />
+      <jump line="428" column="33" filename="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/java/com/rainsoft/utils/HBaseUtils.java" />
+      <jump line="435" column="37" filename="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/java/com/rainsoft/utils/HBaseUtils.java" />
+      <jump line="331" column="14" filename="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/java/com/rainsoft/utils/HBaseUtils.java" />
+      <jump line="337" column="21" filename="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/java/com/rainsoft/utils/HBaseUtils.java" />
+      <jump line="342" column="28" filename="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/java/com/rainsoft/utils/HBaseUtils.java" />
+      <jump line="345" column="87" filename="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/java/com/rainsoft/utils/HBaseUtils.java" />
+      <jump line="376" column="14" filename="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/java/com/rainsoft/utils/HBaseUtils.java" />
+      <jump line="381" column="21" filename="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/java/com/rainsoft/utils/HBaseUtils.java" />
+      <jump line="390" column="33" filename="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/java/com/rainsoft/utils/HBaseUtils.java" />
+      <jump line="393" column="37" filename="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/java/com/rainsoft/utils/HBaseUtils.java" />
+      <jump line="410" column="14" filename="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/java/com/rainsoft/utils/HBaseUtils.java" />
+      <jump line="416" column="21" filename="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/java/com/rainsoft/utils/HBaseUtils.java" />
+      <jump line="419" column="45" filename="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/java/com/rainsoft/utils/HBaseUtils.java" />
+      <jump line="195" column="23" filename="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/java/com/rainsoft/bcp/BaseBcpImportHBaseSolr.java" />
+      <jump line="9" column="13" filename="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/java/com/rainsoft/bcp/SearchBcpImport.java" />
+      <jump line="9" column="13" filename="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/java/com/rainsoft/bcp/ImchatBcpImport.java" />
+      <jump line="46" column="0" filename="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/java/com/rainsoft/FieldConstants.java" />
+      <jump line="0" column="0" filename="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/java/com/rainsoft/bcp/ServiceBcpImport.java" />
+      <jump line="79" column="18" filename="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/resources/columns.json" />
+      <jump line="573" column="0" filename="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/resources/columns.json" />
+      <jump line="35" column="12" filename="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/resources/columns.json" />
+      <jump line="48" column="7" filename="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/resources/columns.json" />
+      <jump line="50" column="7" filename="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/resources/columns.json" />
+      <jump line="165" column="20" filename="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/resources/columns.json" />
+      <jump line="178" column="7" filename="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/resources/columns.json" />
+      <jump line="181" column="7" filename="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/resources/columns.json" />
+      <jump line="535" column="19" filename="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/resources/columns.json" />
+      <jump line="158" column="33" filename="D:/0WorkSpace/JetBrains/beijingThirdPeriod/pom.xml" />
+      <jump line="149" column="19" filename="D:/0WorkSpace/JetBrains/beijingThirdPeriod/pom.xml" />
+      <jump line="4" column="16" filename="D:/0WorkSpace/JetBrains/beijingThirdPeriod/pom.xml" />
+      <jump line="7" column="10" filename="D:/0WorkSpace/JetBrains/beijingThirdPeriod/pom.xml" />
+      <jump line="130" column="12" filename="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/java/com/rainsoft/bcp/BaseBcpImportHBaseSolr.java" />
+      <jump line="121" column="26" filename="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/java/com/rainsoft/bcp/BaseBcpImportHBaseSolr.java" />
+      <jump line="222" column="39" filename="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/java/com/rainsoft/bcp/BaseBcpImportHBaseSolr.java" />
+      <jump line="172" column="63" filename="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/java/com/rainsoft/bcp/BaseBcpImportHBaseSolr.java" />
+      <jump line="58" column="6" filename="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/resources/columns.json" />
+      <jump line="87" column="6" filename="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/resources/columns.json" />
+      <jump line="76" column="0" filename="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/resources/columns.json" />
+      <jump line="113" column="0" filename="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/resources/columns.json" />
+      <jump line="29" column="6" filename="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/resources/columns.json" />
+      <jump line="148" column="5" filename="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/resources/columns.json" />
+      <jump line="149" column="9" filename="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/resources/columns.json" />
+      <jump line="54" column="0" filename="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/java/com/rainsoft/guava/MuliCollectionTest.java" />
+      <jump line="38" column="8" filename="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/java/com/rainsoft/guava/MuliCollectionTest.java" />
+      <jump line="219" column="24" filename="D:/0WorkSpace/JetBrains/beijingThirdPeriod/src/main/java/com/rainsoft/bcp/BaseBcpImportHBaseSolr.java" />
+      <jump line="146" column="10" filename="D:/0WorkSpace/JetBrains/beijingThirdPeriod/pom.xml" />
+      <jump line="198" column="64" filename="D:/0WorkSpace/JetBrains/beijingThirdPeriod/pom.xml" />
+      <jump line="98" column="20" filename="D:/0WorkSpace/JetBrains/yisou/yisou-search/pom.xml" />
+      <jump line="54" column="36" filename="D:/0WorkSpace/JetBrains/yisou/yisou-search/pom.xml" />
+      <jump line="7346" column="53" filename="D:/0WorkSpace/JetBrains/guanzong/src/main/webapp/金十数据 官方网站 - 为交易而生！.html" />
+      <jump line="20" column="58" filename="D:/0WorkSpace/JetBrains/guanzong/src/main/webapp/金十数据 官方网站 - 为交易而生！.html" />
+      <jump line="8173" column="30" filename="D:/0WorkSpace/JetBrains/guanzong/src/main/webapp/金十数据 官方网站 - 为交易而生！.html" />
+      <jump line="8162" column="62" filename="D:/0WorkSpace/JetBrains/guanzong/src/main/webapp/金十数据 官方网站 - 为交易而生！.html" />
+      <jump line="8157" column="9" filename="D:/0WorkSpace/JetBrains/guanzong/src/main/webapp/金十数据 官方网站 - 为交易而生！.html" />
+      <jump line="17" column="166" filename="D:/0WorkSpace/JetBrains/guanzong/src/main/webapp/index.js" />
+      <jump line="426" column="215" filename="D:/0WorkSpace/JetBrains/guanzong/src/main/webapp/index.js" />
+      <jump line="3" column="6189" filename="D:/0WorkSpace/JetBrains/guanzong/src/main/webapp/index.js" />
+      <jump line="0" column="4101" filename="D:/0WorkSpace/JetBrains/guanzong/src/main/webapp/index.js" />
+    </jumps>
+    <registers>
+      <register name="a" type="2">
+        <text encoding="base64">CiAgICAvL3N5bmMgdGltZQogICAgcHJpdmF0ZSBzdGF0aWMgaW50IGhvdXJzID0gQ29uZmlndXJhdGlvbk1hbmFnZXIuZ2V0SW50ZWdlcigib3JhY2xlLmJhdGNoLmV4cG9ydC5sZW5ndGgiKTsKZ2V0Q29uZmlnW10gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByb3cuZ2V0U3RyaW5nKDApLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByb3cuZ2V0U3RyaW5nKDEpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByb3cuZ2V0U3RyaW5nKDIpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aW1lc3RhbXApCklORk9GaWVsZENvbnN0YW50cy5TT0xSX0ZJRUxEX01BUC5nZXQoImRhdGVfdHlwZV9maWVsZHMiKUZpZWxkQ29uc3RhbnRzLlNPTFJfRklFTERfTUFQLmdldCgiZGF0ZV90eXBlX2ZpZWxkcyIp</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text />
+      </register>
+      <register name="-" type="4">
+        <text />
+      </register>
+      <register name="/" type="4">
+        <text>J_flashMoreBtn</text>
+      </register>
+      <register name="0" type="4">
+        <text>jin-flash_more-btn</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGEgaHJlZj0iamF2YXNjcmlwdDo7Ij48aSBjbGFzcz0iamluLWljb24gamluLWljb25fZXhwYW5kIj48L2k+teO797zT1Ni4/LbgPC9hPgo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICBsCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="s" type="4">
+        <text>hours</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHRlc3RNdWx0U2V0V29yZENvdW50KCkgewo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgc3RyV29ybGQgPSAid2VyfGRmZmR8ZGRzYXxkZmR8ZHJlZ3xkZXxkcnxjZXxnaHJ0fGNmfGd0fHNlcnx0Z3xnaHJ0fGNmfGd0fCIgKwogICAgICAgICAgICAgICAgInNlcnx0Z3xndHxrbGRmfGRmZ3x2Y2R8Zmd8Z3R8bHN8bHNlcnxkZnJ8d2VyfGRmZmR8ZGRzYXxkZmR8ZHJlZ3xkZXxkcnwiICsKICAgICAgICAgICAgICAgICJjZXxnaHJ0fGNmfGd0fHNlcnx0Z3xndHxrbGRmfGRmZ3x2Y2R8Zmd8Z3R8bHN8bHNlcnxkZnIiOwogICAgICAgIFN0cmluZ1tdIHdvcmRzID0gc3RyV29ybGQuc3BsaXQoIlxcfCIpOwogICAgICAgIExpc3Q8U3RyaW5nPiB3b3JkTGlzdCA9IG5ldyBBcnJheUxpc3Q8PigpOwogICAgICAgIENvbGxlY3Rpb25zLmFkZEFsbCh3b3JkTGlzdCwgd29yZHMpOwoKICAgICAgICBNdWx0aXNldDxTdHJpbmc+IHdvcmRzTXVsdGlzZXQgPSBIYXNoTXVsdGlzZXQuY3JlYXRlKCk7CiAgICAgICAgd29yZHNNdWx0aXNldC5hZGRBbGwod29yZExpc3QpOwoKICAgICAgICBmb3IgKFN0cmluZyBrZXkgOiB3b3Jkc011bHRpc2V0LmVsZW1lbnRTZXQoKSkgewogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oa2V5ICsgIiBjb3VudDogIiArIHdvcmRzTXVsdGlzZXQuY291bnQoa2V5KSk7CiAgICAgICAgfQoKICAgICAgICAK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgc3RyV29ybGQgPSAid2VyfGRmZmR8ZGRzYXxkZmR8ZHJlZ3xkZXxkcnxjZXxnaHJ0fGNmfGd0fHNlcnx0Z3xnaHJ0fGNmfGd0fCIgKwogICAgICAgICAgICAgICAgInNlcnx0Z3xndHxrbGRmfGRmZ3x2Y2R8Zmd8Z3R8bHN8bHNlcnxkZnJ8d2VyfGRmZmR8ZGRzYXxkZmR8ZHJlZ3xkZXxkcnwiICsKICAgICAgICAgICAgICAgICJjZXxnaHJ0fGNmfGd0fHNlcnx0Z3xndHxrbGRmfGRmZ3x2Y2R8Zmd8Z3R8bHN8bHNlcnxkZnIiOwo=</text>
+      </register>
+      <register name="9" type="4">
+        <text>nt: &quot; + wordsMultiset.count(key));
+        }
+    }
+
+    public void testMultSetWordCount() {</text>
+      </register>
+      <register name=":" type="4">
+        <text>1$s/;/;\r\n/g</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>J_flashMoreBtn</last-search>
+      <last-offset />
+      <last-pattern>J_flashMoreBtn</last-pattern>
+      <last-replace>;\r\n</last-replace>
+      <last-substitute>;</last-substitute>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>bcp_http</entry>
+        <entry encoding="base64">XDxjb2x1bW5zXD4=</entry>
+        <entry encoding="base64">XDxiY3BXcml0ZUludG9IQmFzZVw+</entry>
+        <entry>chat</entry>
+        <entry>BeiJingThirdPeriod</entry>
+        <entry>beiJingThirdPeriod</entry>
+        <entry encoding="base64">XDxtb3ZlQmNwZmlsZVRvV29ya0Rpclw+</entry>
+        <entry encoding="base64">XDxnZXRUYXNrQmNwRmlsZXNcPg==</entry>
+        <entry>real</entry>
+        <entry>search</entry>
+        <entry>package</entry>
+        <entry>redis</entry>
+        <entry>点击加载更多</entry>
+        <entry encoding="base64">XDxKX2ZsYXNoTW9yZUJ0blw+</entry>
+        <entry encoding="base64">XDxmbGFzaF9tb3JlXD4=</entry>
+        <entry>jin-flash_more-btn</entry>
+        <entry>;</entry>
+        <entry>jin-flash_more-btn&quot;</entry>
+        <entry>lastMsgId</entry>
+        <entry>J_flashMoreBtn</entry>
+      </history-search>
+      <history-cmd>
+        <entry>100</entry>
+        <entry>150</entry>
+        <entry>80</entry>
+        <entry>180</entry>
+        <entry>160</entry>
+        <entry>25</entry>
+        <entry>222</entry>
+        <entry>58,70s//&quot;\t&quot;/gc</entry>
+        <entry>58,70s//&quot;\\t&quot;/gc</entry>
+        <entry>26,56s//fieldType/gc</entry>
+        <entry>26,56s//clz/gc</entry>
+        <entry>25,60s//stu/gc</entry>
+        <entry>25,60s//fieldName/gc</entry>
+        <entry>25,60s///gc</entry>
+        <entry>1,$s//FIRST_TIME/gc</entry>
+        <entry>1,$s//SERVICE_CODE/gc</entry>
+        <entry>28</entry>
+        <entry>49</entry>
+        <entry>w</entry>
+        <entry>1$s/;/;\r\n/g</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed M</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed CLOSE_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>shift ctrl pressed 6</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>

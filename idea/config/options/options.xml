@@ -1,0 +1,72 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="evlsprt3.162" value="10" />
+    <property name="installed.kotlin.plugin.version" value="1.2.10-release-IJ2017.3-1" />
+    <property name="selected.color.option.type" value="XML_TAG_DATA" />
+    <property name="INSPECTION_FILTER_HISTORY" value="Disable Inspection&#10;spell" />
+    <property name="fileTypeChangedCounter" value="42" />
+    <property name="ColorChooser.RecentColors" value="63-85-191-255,,,165-186-186-255,,,40-123-222-255,,,169-183-198-255,,,54-65-53-255,,,94-83-57-255" />
+    <property name="PLUGIN_FILTER" value="javascript&#10;js&#10;stati&#10;Python&#10;pyth" />
+    <property name="file.chooser.recent.files" value="D:/0WorkSpace/JetBrains/isec-center/center-schedule/src/main/java/com/nebuinfo/isec/center/schedule/stat&#10;D:/0WorkSpace&#10;D:/0WorkSpace/Tool/apache-maven-3.2.5&#10;D:/0WorkSpace/Tool/apache-maven-3.2.5/conf/settings.xml&#10;D:/0WorkSpace/src/phoenix-4.9/phoenix-4.9-HBase-1.2&#10;D:/0WorkSpace/src/phoenix-4.9-HBase-1.2&#10;D:/0WorkSpace/JetBrains/phoenix-for-cloudera&#10;D:/0WorkSpace/JetBrains/yisou/yisou-search&#10;D:/0WorkSpace/JetBrains/yisou/yisou-common&#10;D:/0WorkSpace/JetBrains/yisou/yisou-parent&#10;D:/0WorkSpace/JetBrains/yisou&#10;D:/0WorkSpace/JetBrains/isec-center&#10;D:/0WorkSpace/JetBrains/isec-center/center-launcher&#10;D:/0WorkSpace/JetBrains/isec-center/center-stream&#10;D:/0WorkSpace/JetBrains/isec-center/center-schedule&#10;D:/0WorkSpace/JetBrains/isec-center/center-common&#10;D:/0WorkSpace/JetBrains/isec-center/center-parent&#10;D:/0WorkSpace/JetBrains/beijingThirdPeriod/pom.xml&#10;D:/0WorkSpace/JetBrains/beijingThirdPeriod-parent_2.10/beijingThirdPeriod&#10;D:/0WorkSpace/JetBrains/demo&#10;D:/0WorkSpace/JetBrains/spark&#10;D:/0WorkSpace/JetBrains/HanLP/pom.xml&#10;D:/0WorkSpace/JetBrains/github/yisou/yisou-parent/pom.xml&#10;D:/0WorkSpace/JetBrains/github/yisou/yisou-solrj/pom.xml&#10;D:/0WorkSpace/JetBrains/github/yisou/yisou-search/pom.xml&#10;D:/0WorkSpace/JetBrains/github/yisou/yisou-common/pom.xml&#10;D:/0WorkSpace/JetBrains/github/yisou&#10;D:/0WorkSpace/JetBrains/github/yisou/yisou-common&#10;D:/0WorkSpace/JetBrains/github/yisou/yisou-search&#10;D:/Program Files/Java/JetBrains/workspace/yisou" />
+    <property name="export.settings.path" value="C:\Users\Administrator\Desktop\备忘录\idea2016\settings.jar" />
+    <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="true" />
+    <property name="lastTip" value="1" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Dependencies" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="project.wizard.group" value="EMPTY_MODULE" />
+    <property name="KEYMAP" value="item&#10;em&#10;screen&#10;join&#10;emulator" />
+    <property name="MavenModuleWizard.inheritGroupId" value="true" />
+    <property name="MavenModuleWizard.inheritVersion" value="true" />
+    <property name="project.wizard.template" value="Empty Project" />
+    <property name="JUnitSupport.hidePassedTests" value="false" />
+    <property name="last.imported.location" value="D:/0WorkSpace/src/phoenix-4.9/phoenix-4.9-HBase-1.2" />
+    <property name="decompiler.legal.notice.accepted" value="true" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="ShowDocumentationInToolWindow" value="false" />
+    <property name="java.module.default.source.root" value="src" />
+    <property name="scala.last.updated" value="1517306756092" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="SpringBeansModulesPanel[0]" value="0.10851872" />
+    <property name="SpringBeansModulesPanel[1]" value="0.12195122" />
+    <property name="SpringBeansModulesPanel[2]" value="0.13917884" />
+    <property name="FrameworksFinderRecursivePanel[0]" value="0.10851872" />
+    <property name="create.project.preferred.importer" value="Maven" />
+    <property name="eclipse.project.dir" value="D:\Program Files\Java\JetBrains\workspace\tysz2012" />
+    <property name="SqlStructureView.filterD.file.structure.state" value="true" />
+    <property name="SpringMvcModulesPanel[0]" value="0.13131976" />
+    <property name="CommittedChanges.SplitterProportions.0" value="700" />
+    <property name="CommittedChanges.SplitterProportions.1" value="500" />
+    <property name="plugins.preselection.path" value="$USER_HOME$/Downloads/markdown-2017.2.20170404/markdown/lib" />
+    <property name="JUnit.Splitter.Proportion" value="0.07437568" />
+    <property name="settings.code.style.selected.tab.JAVA" value="Code Generation" />
+    <property name="RunConfigurable.dividerProportion" value="0.30067244" />
+    <property name="INTENTION_FILTER_HISTORY" value="inspections" />
+    <property name="SingleInspectionProfilePanel.VERTICAL_DIVIDER_PROPORTION" value="0.6838143" />
+    <property name="ProjectStructure.TopLevelElements" value="0.13622096" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="244" />
+    <property name="com.intellij.history.integration.ui.views.SelectionHistoryDialog.0" value="215" />
+    <property name="FileTemplates.SelectedTemplate" value="File Header" />
+    <property name="com.intellij.history.integration.ui.views.DirectoryHistoryDialog.0" value="300" />
+    <property name="ideavim.statistics.timestamp" value="1519899460160" />
+    <property name="CommitChangeListDialog.SPLITTER_PROPORTION_2" value="0.7596899" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="FileTemplates.CurrentTab" value="Includes" />
+    <property name="quick.doc.font.size" value="LARGE" />
+    <property name="evlsprt3.173" value="13" />
+    <property name="file.gist.reindex.count" value="13828" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.1" value="800" />
+    <property name="SearchEveryWhereHistory" value="EQUIPMENT_ID&#10;-&#10;、、&#10;/ending_mac&#10;/" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="build.toolwindow.Sync.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="find.popup.splitter" value="0.6053963" />
+    <property name="ProjectStructure.SecondLevelElements" value="0.39325067" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.5927711" />
+    <property name="Darcula.savedEditorTheme" value="MyDarcula" />
+    <property name="Default.savedEditorTheme" value="_@user_Default" />
+    <property name="SplitFileEditor.Proportion" value="0.54667383" />
+    <property name="LayoutCode.optimizeImports" value="false" />
+    <property name="LayoutCode.rearrangeEntriesPlain text" value="false" />
+  </component>
+</application>

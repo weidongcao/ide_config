@@ -1,0 +1,664 @@
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="run-configuration-type">
+      <project id="yisou" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1517906534559" />
+      <project id="yisou-search" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1503567997862" />
+      <project id="BeiJingThirdPeriod" values="Application" collectionTime="1519956961805" />
+      <project id="case" values="MavenRunConfiguration" collectionTime="1488093855453" />
+      <project id="IK" values="Application" collectionTime="1481186283322" />
+      <project id="mapreduce" values="Application" collectionTime="1477371673506" />
+      <project id="SparkJob" values="Application" collectionTime="1505460378602" />
+      <project id="mr_demo" values="Application" collectionTime="1470974063029" />
+      <project id="yisou-common" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1505460492561" />
+      <project id="ISecSearch" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1481524654784" />
+    </group>
+    <group name="vcs">
+      <project id="guanzong" values="Git" collectionTime="1519717984368" />
+      <project id="userSession" values="Git" collectionTime="1495021370774" />
+      <project id="spark-parent_2.11" values="Git" collectionTime="1515145022985" />
+      <project id="taotao-parent" values="svn" collectionTime="1471423327608" />
+      <project id="case" values="svn" collectionTime="1488093855452" />
+      <project id="bigdata.demo" values="Git" collectionTime="1511347556563" />
+      <project id="yisou" values="Git" collectionTime="1517906534558" />
+      <project id="yunchen" values="Git" collectionTime="1507713246083" />
+      <project id="tysz2012" values="svn" collectionTime="1483511566890" />
+      <project id="IK" values="Git" collectionTime="1481186283322" />
+      <project id="BeiJingThirdPeriod" values="Git" collectionTime="1519956961789" />
+      <project id="isec-center" values="Git" collectionTime="1519796237358" />
+      <project id="hanlp" values="Git" collectionTime="1510738006700" />
+      <project id="ISecSearch" values="svn" collectionTime="1481524654784" />
+    </group>
+    <group name="Spring Boot">
+      <project id="springboot" values="application.properties,SpringBootModulesPerProject_1,RunConfigsPerProject_0" collectionTime="1507544561135" />
+    </group>
+    <group name="libraries">
+      <project id="guanzong" values="spring" collectionTime="1519717984607" />
+      <project id="userSession" values="groovy" collectionTime="1495021370933" />
+      <project id="yisou-search" values="spring-mvc,spring" collectionTime="1503567997908" />
+      <project id="Scala" values="Scala" collectionTime="1470966298940" />
+      <project id="spark-parent_2.11" values="Scala" collectionTime="1515145023202" />
+      <project id="cmcc" values="spring,org.osgi.core,spring-mvc" collectionTime="1483433203618" />
+      <project id="beijingThirdPeriod" values="spring" collectionTime="1497439396781" />
+      <project id="springboot" values="spring,EJB,groovy,spring-mvc,spring-boot" collectionTime="1507544553067" />
+      <project id="yisou-common" values="spring,spring-mvc" collectionTime="1505460492745" />
+      <project id="bigdata_solr" values="Scala" collectionTime="1471258935808" />
+      <project id="case" values="spring,spring-mvc" collectionTime="1488093855921" />
+      <project id="scalaDemo" values="Scala" collectionTime="1515392171498" />
+      <project id="phoenix-4.9-HBase-1.2" values="groovy,Scala" collectionTime="1515487654127" />
+      <project id="yisou" values="spring,spring-mvc" collectionTime="1517906534643" />
+      <project id="SparkJob" values="Scala" collectionTime="1505460378868" />
+      <project id="phoenix" values="Scala,groovy" collectionTime="1515492889728" />
+      <project id="bigdata1" values="Scala" collectionTime="1490254499568" />
+      <project id="yunchen" values="Scala,groovy" collectionTime="1507713246609" />
+      <project id="tysz2012" values="spring-mvc,spring" collectionTime="1483511566944" />
+      <project id="taotao" values="spring-mvc,spring" collectionTime="1472809170036" />
+      <project id="yuncai" values="spring,spring-mvc,groovy" collectionTime="1481625111525" />
+      <project id="BeiJingThirdPeriod" values="Scala,spring" collectionTime="1519956962072" />
+      <project id="isec-center" values="groovy,Scala,spring" collectionTime="1519796237596" />
+      <project id="RobinProject" values="Scala" collectionTime="1480849370766" />
+      <project id="spark" values="groovy" collectionTime="1493099311873" />
+      <project id="streaming" values="Scala" collectionTime="1511752147863" />
+      <project id="ISecSearch" values="spring-mvc,spring,JAX-WS" collectionTime="1481524654870" />
+    </group>
+    <group name="Scala">
+      <project id="userSession" values="Library  Akka for Java" collectionTime="1495021370942" />
+      <project id="SparkJob" values="Library  Breeze,Library  Spark,Library  JUnit for Scala,Scala  2.10.4,Library  Akka for Scala" collectionTime="1505460378869" />
+      <project id="streaming" values="Library  ScalaTest,Library  Scalacheck,Scala  2.7.0,Library  JUnit for Scala" collectionTime="1511752147863" />
+      <project id="Scala" values="Scala  2.10.4" collectionTime="1470966299633" />
+      <project id="spark-parent_2.11" values="Library  Scalacheck,Java version  java version  1.8.0_65 ,Library  Spark,Library  JUnit for Scala,Library  Breeze,Scala  2.11.8,Library  ScalaTest" collectionTime="1515145023245" />
+      <project id="cmcc" values="Library  Akka for Java" collectionTime="1483433203922" />
+      <project id="scalaDemo" values="Scala  2.11.8,Java version  java version  1.8.0_65 " collectionTime="1515392172430" />
+      <project id="mr_demo" values="Library  Akka for Java" collectionTime="1470974063124" />
+      <project id="guanzong" values="Library  Spark for Java" collectionTime="1519717985379" />
+      <project id="springboot" values="Library  Akka for Java" collectionTime="1507544561011" />
+      <project id="phoenix-4.9-HBase-1.2" values="Library  JUnit for Scala,Library  Spark,Java version  java version  1.8.0_65 ,Library  ScalaTest,Scala  2.11.8" collectionTime="1515487654152" />
+      <project id="bigdata_solr" values="Library  Breeze,Library  Akka for Scala,Library  JUnit for Scala,Scala  2.10.4,Library  Spark" collectionTime="1471258935829" />
+      <project id="phoenix" values="Java version  java version  1.8.0_65 ,Library  Akka for Scala,Library  JUnit for Scala,Library  Spark,Library  ScalaTest,Scala  2.10.4" collectionTime="1515492889741" />
+      <project id="bigdata1" values="Scala  2.10.4" collectionTime="1490254499578" />
+      <project id="yunchen" values="Library  Spark,Scala  2.10.4,Library  Rediscala,Library  JUnit for Scala,Library  Breeze,Library  Akka for Scala" collectionTime="1507713250297" />
+      <project id="BeiJingThirdPeriod" values="Library  Spark,Scala  2.11.8,Java version  java version  1.8.0_65 ,Library  JUnit for Scala,Library  ScalaTest" collectionTime="1519956963073" />
+      <project id="isec-center" values="Library  JUnit for Scala,Scala  2.11.8,Java version  java version  1.8.0_65 ,Library  Rediscala,Library  Spark,Library  ScalaTest" collectionTime="1519796238482" />
+      <project id="RobinProject" values="Scala  2.10.4" collectionTime="1480849370767" />
+      <project id="spark" values="Library  Akka for Java" collectionTime="1493099313746" />
+    </group>
+    <group name="run-configuration-type-temp">
+      <project id="ikAnalyzer" values="Application" collectionTime="1481186853101" />
+      <project id="bigdata" values="Application" collectionTime="1508241729716" />
+      <project id="SparkJob" values="Application" collectionTime="1505460378602" />
+      <project id="beijingThirdPeriod" values="Application" collectionTime="1497439396704" />
+      <project id="hanlp" values="Application" collectionTime="1510738006700" />
+      <project id="mr_demo" values="Application" collectionTime="1470974063029" />
+      <project id="bigdata_solr" values="Application" collectionTime="1471258935661" />
+      <project id="guanzong" values="Application" collectionTime="1519717984377" />
+      <project id="scalaDemo" values="Application" collectionTime="1515392171187" />
+      <project id="yisou" values="Application" collectionTime="1517906534559" />
+      <project id="springboot" values="Application" collectionTime="1507544551425" />
+      <project id="yunchen" values="Application" collectionTime="1507713246086" />
+      <project id="yuncai" values="Application" collectionTime="1481625111476" />
+      <project id="BeiJingThirdPeriod" values="Application,JUnit" collectionTime="1519956961805" />
+      <project id="isec-center" values="Application" collectionTime="1519796237365" />
+      <project id="RobinProject" values="Application" collectionTime="1480849370721" />
+      <project id="spark" values="Application" collectionTime="1493099311294" />
+    </group>
+    <group name="VCS Log 2">
+      <project id="yisou" values="data.branches.count.1+,data.commit.count.1+,data.users.count.1+,data.git.root.count.2+" collectionTime="1517906534644" />
+      <project id="BeiJingThirdPeriod" values="data.commit.count.100+,data.branches.count.10+,data.git.root.count.1,data.users.count.1+" collectionTime="1519956962072" />
+      <project id="userSession" values="data.git.root.count.1,data.commit.count.1+" collectionTime="1495021370934" />
+      <project id="hanlp" values="data.commit.count.100+,data.git.root.count.1" collectionTime="1510738006731" />
+      <project id="spark-parent_2.11" values="data.users.count.1K+,data.git.root.count.1,data.branches.count.10+,data.commit.count.10K+" collectionTime="1515145023224" />
+      <project id="bigdata.demo" values="data.commit.count.1+,data.git.root.count.1" collectionTime="1511347556676" />
+      <project id="guanzong" values="data.commit.count.1+,data.users.count.1+,data.branches.count.1+,data.git.root.count.1" collectionTime="1519717984608" />
+      <project id="isec-center" values="data.branches.count.10+,data.users.count.1+,data.git.root.count.5+,data.commit.count.100+" collectionTime="1519796237598" />
+    </group>
+    <group name="file-type">
+      <project id="userSession" values="XML,Properties,JSP,Scala,PLAIN_TEXT,JAVA" collectionTime="1495021370932" />
+      <project id="mr_demo" values="XML,JAVA" collectionTime="1470974063119" />
+      <project id="test" values="PLAIN_TEXT,XML,JSP" collectionTime="1511524420352" />
+      <project id="BeiJingThirdPeriod" values="XML,SQL,JSON,Scala,Properties,JSP,JAVA,Python,Native,Markdown,Bash" collectionTime="1519956962043" />
+      <project id="yisou-search" values="JAVA,XML,Properties" collectionTime="1503567997907" />
+      <project id="IK" values="ARCHIVE,Manifest,JAVA,XML,UNKNOWN,PLAIN_TEXT" collectionTime="1481186283371" />
+      <project id="idea.exe.vmoptions" values="PLAIN_TEXT" collectionTime="1497597913750" />
+      <project id="bigdata" values="JAVA,Bash,ARCHIVE,XML,PLAIN_TEXT" collectionTime="1508241729747" />
+      <project id="isec-center" values="Scala,PLAIN_TEXT,JAVA,Properties,XML,Bash" collectionTime="1519796237554" />
+      <project id="mapreduce" values="XML,PLAIN_TEXT,JAVA" collectionTime="1477371673549" />
+      <project id="spark-parent_2.11" values="JSON,HTML,JavaScript,ARCHIVE,PLAIN_TEXT,UNKNOWN,SPI,Images,Native,CSS,Scala,Markdown,YAML,sbt,SQL,JAVA,Properties,C++,XML,Bash,HOCON" collectionTime="1515145023196" />
+      <project id="taotao-parent" values="XML" collectionTime="1471423327649" />
+      <project id="workspace" values="Manifest,Properties,PLAIN_TEXT,JavaScript,JSP,Images,UNKNOWN,YAML,CSS,Native,JAVA,XML,HTML" collectionTime="1470367336171" />
+      <project id="taotao" values="HTML,JavaScript,JAVA,JSP,XML,Images,PLAIN_TEXT,CSS,JSON Schema,Properties,UNKNOWN" collectionTime="1472809170027" />
+      <project id="ikAnalyzer" values="XML,JAVA,PLAIN_TEXT" collectionTime="1481186853149" />
+      <project id="elasticsearch-analysis-ik" values="Properties,XML,YAML,JAVA,PLAIN_TEXT" collectionTime="1488093878324" />
+      <project id="beijingThirdPeriod-parent_2.10" values="PLAIN_TEXT,XML,JSP,Python,JSON Schema,Native,Bash,Properties,JAVA" collectionTime="1512372689624" />
+      <project id="springboot" values="XML,Properties,JSP,JAVA" collectionTime="1507544552488" />
+      <project id="bigdata.demo" values="XML,PLAIN_TEXT,JAVA" collectionTime="1511347556673" />
+      <project id="SolrSearch" values="XML,JSP" collectionTime="1470619331519" />
+      <project id="yisou-common" values="Properties,JAVA,XML,PLAIN_TEXT,SQL" collectionTime="1505460492745" />
+      <project id="eee" values="PLAIN_TEXT,XML,JSP" collectionTime="1511525649490" />
+      <project id="sss" values="JSP,XML,PLAIN_TEXT" collectionTime="1511525155182" />
+      <project id="yuren" values="XML,Manifest,JAVA" collectionTime="1496714450643" />
+      <project id="case" values="XML,CSS,HTML,Manifest,JavaScript,JAVA,Properties,Images,Native,UNKNOWN,JSP,PLAIN_TEXT,YAML" collectionTime="1488093855618" />
+      <project id="yisou" values="PLAIN_TEXT,Properties,JSON,JAVA,SQL,XML" collectionTime="1517906534641" />
+      <project id="yunchen" values="JAVA,SQL,Bash,Scala,XML,PLAIN_TEXT,Properties" collectionTime="1507713246434" />
+      <project id="spark" values="XML,CLASS,PLAIN_TEXT,Scala,Manifest,JAVA,Properties" collectionTime="1493099311783" />
+      <project id="guanzong" values="HTML,JAVA,UNKNOWN,XML,Markdown,Scala,Properties,JSON,JSP" collectionTime="1519717984576" />
+      <project id="ik-analyzer" values="XML,PLAIN_TEXT,JAVA" collectionTime="1470397256989" />
+      <project id="scalaDemo" values="sbt,Scala,Properties" collectionTime="1515392171495" />
+      <project id="SparkJob" values="ARCHIVE,Scala,CLASS,Properties,HOCON,PLAIN_TEXT,Manifest,JAVA,SQL,XML,Bash" collectionTime="1505460378867" />
+      <project id="phoenix" values="PLAIN_TEXT,JAVA,CSS,SPI,UNKNOWN,SQL,Scala,Bash,JavaScript,Properties,XML,HTML,Markdown,Python,SVG" collectionTime="1515492889717" />
+      <project id="aaa" values="JSP,XML,PLAIN_TEXT" collectionTime="1511524689884" />
+      <project id="bigdata_solr" values="Scala,JAVA,PLAIN_TEXT,HOCON,Manifest,XML" collectionTime="1471258935808" />
+      <project id="beijingThirdPeriod" values="Properties,ARCHIVE,JSP,XML,PLAIN_TEXT,JAVA" collectionTime="1497439396770" />
+      <project id="lib" values="ARCHIVE" collectionTime="1500542124910" />
+      <project id="hanlp" values="XML,PLAIN_TEXT,JAVA,Properties" collectionTime="1510738006731" />
+      <project id="ikAnalyzea" values="Images,JSON Schema,CLASS,PLAIN_TEXT,HTML,ARCHIVE,XML,JSP,JAVA,Manifest,Properties,UNKNOWN,YAML,CSS,Scala,SQL,JavaScript,Native" collectionTime="1473835316169" />
+      <project id="phoenix-4.9-HBase-1.2" values="SVG,HTML,UNKNOWN,CSS,Markdown,SQL,Scala,JavaScript,PLAIN_TEXT,Properties,Bash,JAVA,SPI,XML" collectionTime="1515487654098" />
+      <project id="yuncai" values="Properties,XML,JAVA" collectionTime="1481625111525" />
+      <project id="RobinProject" values="SBT,Properties,Scala,ARCHIVE,SQL" collectionTime="1480849370766" />
+      <project id="cmcc" values="Images,CSS,Native,HTML,SQL,Manifest,Properties,XML,PLAIN_TEXT,ARCHIVE,JSP,UNKNOWN,JavaScript,JAVA" collectionTime="1483433203617" />
+      <project id="tysz2012" values="Native,Properties,PLAIN_TEXT,SQL,XML,JavaScript,Manifest,C#,HTML,JSP,CSS,UNKNOWN,Images,JAVA,JSON Schema,ARCHIVE" collectionTime="1483511566943" />
+      <project id="streaming" values="Scala,XML" collectionTime="1511752147863" />
+      <project id="ISecSearch" values="XML,JAVA,ARCHIVE,Properties,Manifest,JSP" collectionTime="1481524654836" />
+      <project id="taotao-common" values="XML,JAVA" collectionTime="1470622656023" />
+    </group>
+    <group name="Run Dashboard">
+      <project id="yisou" values="run.dashboard.disabled" collectionTime="1517906534641" />
+      <project id="scalaDemo" values="run.dashboard.disabled" collectionTime="1515392171496" />
+      <project id="BeiJingThirdPeriod" values="run.dashboard.disabled" collectionTime="1519956962044" />
+      <project id="phoenix-4.9-HBase-1.2" values="run.dashboard.disabled" collectionTime="1515487654098" />
+      <project id="phoenix" values="run.dashboard.disabled" collectionTime="1515492889717" />
+      <project id="spark-parent_2.11" values="run.dashboard.disabled" collectionTime="1515145023196" />
+      <project id="guanzong" values="run.dashboard.disabled" collectionTime="1519717984577" />
+      <project id="isec-center" values="run.dashboard.disabled" collectionTime="1519796237554" />
+    </group>
+    <group name="Libraries by jars">
+      <project id="guanzong" values="spring-core_4.1.6.RELEASE" collectionTime="1519717984649" />
+      <project id="userSession" values="velocity_1.5,groovy_2.4.4" collectionTime="1495021370937" />
+      <project id="yisou-search" values="spring-mvc_4.3.2.RELEASE,spring-core_4.3.2.RELEASE" collectionTime="1503567997915" />
+      <project id="phoenix" values="groovy_2.1.6,velocity_1.7,velocity_1.5" collectionTime="1515492889736" />
+      <project id="cmcc" values="freemarker_2.3.15,spring-core_3.2.8.RELEASE,spring-core_3.2.8.RELEASE,spring-core_4.1.3.RELEASE,spring-mvc_3.2.8.RELEASE,spring-mvc_3.2.8.RELEASE,spring-mvc_4.1.3.RELEASE" collectionTime="1483433203667" />
+      <project id="beijingThirdPeriod" values="spring-core_4.1.6.RELEASE" collectionTime="1497439396789" />
+      <project id="yisou-common" values="spring-core_4.3.2.RELEASE,spring-mvc_4.3.2.RELEASE" collectionTime="1505460492748" />
+      <project id="tysz2012" values="freemarker_2.3.8,spring-core_2.0,spring-mvc_2.0" collectionTime="1483511566968" />
+      <project id="case" values="spring-data-hadoop_2.0.2.RELEASE,spring-batch_3.0.1.RELEASE,spring-data-jpa_1.6.0.RELEASE,freemarker_2.3.15,spring-security_4.0.3.RELEASE,spring-core_4.2.2.RELEASE,apache-tiles_3.0.5,spring-mvc_4.2.2.RELEASE,spring-data-commons_1.8.0.RELEASE,velocity_1.6.2" collectionTime="1488093857069" />
+      <project id="phoenix-4.9-HBase-1.2" values="velocity_1.5,velocity_1.7,groovy_2.4.4" collectionTime="1515487654135" />
+      <project id="taotao" values="spring-mvc_4.1.3.RELEASE,spring-core_4.1.3.RELEASE" collectionTime="1472809170040" />
+      <project id="springboot" values="spring-core_4.2.5.RELEASE,spring-boot_1.4.2.RELEASE,groovy_2.4.4,spring-mvc_4.3.4.RELEASE,velocity_1.5" collectionTime="1507544553873" />
+      <project id="yunchen" values="groovy_2.4.4,velocity_1.5" collectionTime="1507713246794" />
+      <project id="yuncai" values="spring-core_4.3.2.RELEASE,spring-mvc_4.3.2.RELEASE,spring-data-hadoop_2.4.0.RELEASE,spring-batch_3.0.6.RELEASE" collectionTime="1481625111529" />
+      <project id="BeiJingThirdPeriod" values="spring-core_4.3.10.RELEASE" collectionTime="1519956962275" />
+      <project id="isec-center" values="spring-core_4.2.8.RELEASE,velocity_1.5,groovy_2.4.4,spring-batch_3.0.7.RELEASE,spring-integration_4.3.12.RELEASE" collectionTime="1519796237718" />
+      <project id="yisou" values="spring-core_4.3.2.RELEASE,spring-mvc_4.3.2.RELEASE" collectionTime="1517906534647" />
+      <project id="spark" values="groovy_2.4.4,velocity_1.5" collectionTime="1493099311879" />
+      <project id="ISecSearch" values="spring-core_2.0,spring-mvc_2.0" collectionTime="1481524654872" />
+    </group>
+    <group name="module-language-level">
+      <project id="yisou" values="JDK_1_8" collectionTime="1517906534647" />
+      <project id="scalaDemo" values="JDK_1_8" collectionTime="1515392171580" />
+      <project id="BeiJingThirdPeriod" values="JDK_1_8" collectionTime="1519956962275" />
+      <project id="phoenix-4.9-HBase-1.2" values="JDK_1_7,JDK_1_5,JDK_1_8" collectionTime="1515487654135" />
+      <project id="phoenix" values="JDK_1_5,JDK_1_7" collectionTime="1515492889736" />
+      <project id="spark-parent_2.11" values="JDK_1_7,JDK_1_5,JDK_1_8" collectionTime="1515145023240" />
+      <project id="guanzong" values="JDK_1_8" collectionTime="1519717984649" />
+      <project id="isec-center" values="JDK_1_8" collectionTime="1519796237719" />
+    </group>
+    <group name="compiler">
+      <project id="userSession" values="auto_make" collectionTime="1495021370933" />
+      <project id="test" values="auto_make" collectionTime="1511524420352" />
+      <project id="bigdata1" values="auto_make" collectionTime="1490254499568" />
+      <project id="BeiJingThirdPeriod" values="auto_make" collectionTime="1519956962072" />
+      <project id="java" values="auto_make" collectionTime="1470707206367" />
+      <project id="idea.exe.vmoptions" values="auto_make" collectionTime="1497597913750" />
+      <project id="bigdata" values="auto_make" collectionTime="1508241729747" />
+      <project id="isec-center" values="auto_make" collectionTime="1519796237596" />
+      <project id="mapreduce" values="auto_make" collectionTime="1477371673550" />
+      <project id="spark-parent_2.11" values="auto_make" collectionTime="1515145023202" />
+      <project id="taotao-parent" values="auto_make" collectionTime="1471423327649" />
+      <project id="taotao" values="auto_make" collectionTime="1472809170036" />
+      <project id="ikAnalyzer" values="auto_make" collectionTime="1481186853150" />
+      <project id="elasticsearch-analysis-ik" values="auto_make" collectionTime="1488093878326" />
+      <project id="beijingThirdPeriod-parent_2.10" values="auto_make" collectionTime="1512372689624" />
+      <project id="springboot" values="auto_make" collectionTime="1507544553067" />
+      <project id="bigdata.demo" values="auto_make" collectionTime="1511347556676" />
+      <project id="SolrSearch" values="auto_make" collectionTime="1470619331552" />
+      <project id="yisou-common" values="auto_make" collectionTime="1505460492745" />
+      <project id="eee" values="auto_make" collectionTime="1511525649490" />
+      <project id="sss" values="auto_make" collectionTime="1511525155182" />
+      <project id="IK" values="auto_make" collectionTime="1481186283371" />
+      <project id="yuren" values="auto_make" collectionTime="1496714450643" />
+      <project id="ikAnalyzea" values="auto_make" collectionTime="1473835316169" />
+      <project id="yisou-solrj" values="auto_make" collectionTime="1472466121354" />
+      <project id="yisou" values="auto_make" collectionTime="1517906534643" />
+      <project id="yunchen" values="auto_make" collectionTime="1507713246609" />
+      <project id="SparkAction" values="auto_make" collectionTime="1475031842139" />
+      <project id="spark" values="auto_make" collectionTime="1493099311873" />
+      <project id="guanzong" values="auto_make" collectionTime="1519717984607" />
+      <project id="orskr" values="auto_make" collectionTime="1500608808354" />
+      <project id="ik-analyzer" values="auto_make" collectionTime="1470397256990" />
+      <project id="scalaDemo" values="auto_make" collectionTime="1515392171498" />
+      <project id="SparkJob" values="auto_make" collectionTime="1505460378868" />
+      <project id="phoenix" values="auto_make" collectionTime="1515492889728" />
+      <project id="aaa" values="auto_make" collectionTime="1511524689885" />
+      <project id="bigdata_solr" values="auto_make" collectionTime="1471258935808" />
+      <project id="beijingThirdPeriod" values="auto_make" collectionTime="1497439396781" />
+      <project id="lib" values="auto_make" collectionTime="1500542124910" />
+      <project id="hanlp" values="auto_make" collectionTime="1510738006731" />
+      <project id="classes" values="auto_make" collectionTime="1471164308418" />
+      <project id="Scala" values="auto_make" collectionTime="1470966298940" />
+      <project id="ISecCase2016" values="auto_make" collectionTime="1483494225974" />
+      <project id="phoenix-4.9-HBase-1.2" values="auto_make" collectionTime="1515487654127" />
+      <project id="yuncai" values="auto_make" collectionTime="1481625111525" />
+      <project id="yisou-search" values="auto_make" collectionTime="1503567997908" />
+      <project id="cmcc" values="auto_make" collectionTime="1483433203618" />
+      <project id="workspace" values="auto_make" collectionTime="1470367336171" />
+      <project id="streaming" values="auto_make" collectionTime="1511752147863" />
+      <project id="ISecSearch" values="auto_make" collectionTime="1481524654870" />
+      <project id="taotao-common" values="auto_make" collectionTime="1470622656023" />
+    </group>
+    <group name="Scala Settings">
+      <project id="scalaDemo" values="scala.compiler.inc.type.used.IDEA,scala.compiler.compile.server.used" collectionTime="1515392172433" />
+      <project id="BeiJingThirdPeriod" values="scala.compiler.compile.server.used,scala.compiler.inc.type.used.IDEA" collectionTime="1519956963073" />
+      <project id="phoenix-4.9-HBase-1.2" values="scala.compiler.compile.server.used,scala.compiler.inc.type.used.IDEA" collectionTime="1515487654155" />
+      <project id="phoenix" values="scala.compiler.compile.server.used,scala.compiler.inc.type.used.IDEA" collectionTime="1515492889741" />
+      <project id="spark-parent_2.11" values="scala.compiler.inc.type.used.IDEA,scala.compiler.compile.server.used" collectionTime="1515145023245" />
+      <project id="isec-center" values="scala.compiler.inc.type.used.IDEA,scala.compiler.compile.server.used" collectionTime="1519796238483" />
+    </group>
+    <group name="Spring MVC">
+      <project id="yisou" values="viewResolver_UrlBasedViewResolverFactory[null],viewResolvers_1,fileset_webXml,mvcModelsInProject_1,fileset_webXml" collectionTime="1517906534742" />
+      <project id="yisou-search" values="fileset_webXml,viewResolvers_1,fileset_webXml,mvcModelsInProject_1,viewResolver_UrlBasedViewResolver_.jsp" collectionTime="1503567998094" />
+      <project id="cmcc" values="fileset_webXml,fileset_webXml,viewResolver_UrlBasedViewResolver_.jsp,fileset_webXml,mvcModelsInProject_3,viewResolver_UrlBasedViewResolver_.jsp,fileset_webXml,fileset_webXml,viewResolvers_1,fileset_webXml,viewResolvers_1,viewResolver_UrlBasedViewResolver_.jsp,viewResolvers_1" collectionTime="1483433203922" />
+      <project id="tysz2012" values="fileset_webXml,viewResolvers_0,mvcModelsInProject_1,fileset_webXml" collectionTime="1483511567082" />
+      <project id="springboot" values="mvcModelsInProject_0" collectionTime="1507544560962" />
+      <project id="taotao" values="mvcModelsInProject_0" collectionTime="1472809170177" />
+      <project id="yuncai" values="viewResolver_UrlBasedViewResolver_.jsp,fileset_webXml,viewResolvers_1,mvcModelsInProject_1,fileset_webXml" collectionTime="1481625111542" />
+      <project id="case" values="mvcModelsInProject_0" collectionTime="1488093857111" />
+      <project id="yisou-common" values="fileset_webXml,fileset_webXml,mvcModelsInProject_1,viewResolver_UrlBasedViewResolver_.jsp,viewResolvers_1" collectionTime="1505460492943" />
+      <project id="ISecSearch" values="viewResolvers_0,mvcModelsInProject_1,fileset_webXml,fileset_webXml" collectionTime="1481524655041" />
+    </group>
+    <group name="jdbc-driver">
+      <project id="BeiJingThirdPeriod" values="oracle.jdbc.OracleDriver" collectionTime="1519956962995" />
+    </group>
+    <group name="spring">
+      <project id="yisou" values="fileset_userConfiguredPerFacet_0,fileset_autodetect_NONE,fileset_autodetect_com.intellij.spring.web.config.ServletFileSet,fileset_userConfiguredPerFacet_0,fileset_autodetect_com.intellij.spring.web.config.ServletFileSet" collectionTime="1517906534650" />
+      <project id="yisou-search" values="fileset_autodetect_com.intellij.spring.web.config.webXml.XmlServletFileSet,fileset_autodetect_com.intellij.spring.web.config.webXml.XmlServletFileSet" collectionTime="1503567998042" />
+      <project id="cmcc" values="fileset_autodetect_com.intellij.spring.web.config.webXml.XmlServletFileSet,fileset_autodetect_com.intellij.spring.web.config.webXml.XmlServletFileSet,fileset_autodetect_com.intellij.spring.web.config.webXml.XmlServletFileSet,fileset_autodetect_com.intellij.spring.web.config.webXml.XmlServletFileSet,fileset_autodetect_com.intellij.spring.web.config.webXml.XmlServletFileSet,fileset_autodetect_com.intellij.spring.web.config.webXml.XmlServletFileSet" collectionTime="1483433203744" />
+      <project id="tysz2012" values="fileset_autodetect_com.intellij.spring.web.config.webXml.XmlServletFileSet,fileset_autodetect_com.intellij.spring.web.config.webXml.XmlServletFileSet" collectionTime="1483511566994" />
+      <project id="beijingThirdPeriod" values="xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/context,fileset_autodetect_NONE,fileset_xmlContext,fileset_configFiles5,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/context" collectionTime="1497439396905" />
+      <project id="yisou-common" values="fileset_autodetect_com.intellij.spring.web.config.webXml.XmlServletFileSet,fileset_autodetect_com.intellij.spring.web.config.webXml.XmlServletFileSet" collectionTime="1505460492827" />
+      <project id="BeiJingThirdPeriod" values="xmlNS_www.springframework.org/schema/context,fileset_configFiles5,fileset_autodetect_NONE,fileset_userConfiguredPerFacet_1,fileset_xmlContext" collectionTime="1519956963026" />
+      <project id="ISecSearch" values="fileset_autodetect_com.intellij.spring.web.config.webXml.XmlServletFileSet,fileset_xmlContext,xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/aop,fileset_autodetect_com.intellij.spring.web.config.webXml.XmlServletFileSet,fileset_configFiles5" collectionTime="1481524654925" />
+      <project id="yuncai" values="fileset_autodetect_com.intellij.spring.web.config.webXml.XmlServletFileSet,fileset_autodetect_com.intellij.spring.web.config.webXml.XmlServletFileSet" collectionTime="1481625111532" />
+      <project id="guanzong" values="fileset_autodetect_NONE,fileset_xmlContext,xmlNS_www.springframework.org/schema/context,fileset_configFiles1,fileset_userConfiguredPerFacet_1" collectionTime="1519717985371" />
+      <project id="isec-center" values="fileset_userConfiguredPerFacet_0,fileset_userConfiguredPerFacet_0,fileset_autodetect_NONE,fileset_autodetect_NONE,fileset_autodetect_NONE,fileset_autodetect_NONE,fileset_userConfiguredPerFacet_0,fileset_userConfiguredPerFacet_0" collectionTime="1519796238462" />
+    </group>
+    <group name="deployment server">
+      <project id="yunchen" values="SFTP" collectionTime="1507713250075" />
+    </group>
+    <group name="module type">
+      <project id="userSession" values="JAVA_MODULE" collectionTime="1495021370774" />
+      <project id="mr_demo" values="JAVA_MODULE" collectionTime="1470974063029" />
+      <project id="test" values="JAVA_MODULE" collectionTime="1511524420295" />
+      <project id="bigdata1" values="JAVA_MODULE" collectionTime="1490254499510" />
+      <project id="BeiJingThirdPeriod" values="JAVA_MODULE" collectionTime="1519956961805" />
+      <project id="yisou-search" values="JAVA_MODULE" collectionTime="1503567997861" />
+      <project id="java" values="JAVA_MODULE" collectionTime="1470707206210" />
+      <project id="idea.exe.vmoptions" values="JAVA_MODULE" collectionTime="1497597913682" />
+      <project id="bigdata" values="JAVA_MODULE" collectionTime="1508241729716" />
+      <project id="isec-center" values="JAVA_MODULE" collectionTime="1519796237363" />
+      <project id="mapreduce" values="JAVA_MODULE" collectionTime="1477371673506" />
+      <project id="spark-parent_2.11" values="JAVA_MODULE" collectionTime="1515145022986" />
+      <project id="taotao-parent" values="JAVA_MODULE" collectionTime="1471423327608" />
+      <project id="taotao" values="JAVA_MODULE" collectionTime="1472809169977" />
+      <project id="ikAnalyzer" values="JAVA_MODULE" collectionTime="1481186853101" />
+      <project id="elasticsearch-analysis-ik" values="JAVA_MODULE" collectionTime="1488093878264" />
+      <project id="beijingThirdPeriod-parent_2.10" values="JAVA_MODULE" collectionTime="1512372689584" />
+      <project id="springboot" values="JAVA_MODULE" collectionTime="1507544551424" />
+      <project id="bigdata.demo" values="JAVA_MODULE" collectionTime="1511347556563" />
+      <project id="SolrSearch" values="JAVA_MODULE" collectionTime="1470619331335" />
+      <project id="yisou-common" values="JAVA_MODULE" collectionTime="1505460492561" />
+      <project id="eee" values="JAVA_MODULE" collectionTime="1511525649433" />
+      <project id="sss" values="JAVA_MODULE" collectionTime="1511525155134" />
+      <project id="IK" values="JAVA_MODULE" collectionTime="1481186283322" />
+      <project id="yuren" values="JAVA_MODULE" collectionTime="1496714450602" />
+      <project id="case" values="JAVA_MODULE" collectionTime="1488093855453" />
+      <project id="yisou" values="JAVA_MODULE" collectionTime="1517906534559" />
+      <project id="yunchen" values="JAVA_MODULE" collectionTime="1507713246084" />
+      <project id="spark" values="JAVA_MODULE" collectionTime="1493099311293" />
+      <project id="guanzong" values="JAVA_MODULE" collectionTime="1519717984375" />
+      <project id="orskr" values="JAVA_MODULE" collectionTime="1500608808317" />
+      <project id="ik-analyzer" values="JAVA_MODULE" collectionTime="1470397256965" />
+      <project id="scalaDemo" values="SBT_MODULE,JAVA_MODULE" collectionTime="1515392171185" />
+      <project id="SparkJob" values="JAVA_MODULE" collectionTime="1505460378602" />
+      <project id="tysz2012" values="JAVA_MODULE" collectionTime="1483511566890" />
+      <project id="phoenix" values="JAVA_MODULE" collectionTime="1515492889566" />
+      <project id="aaa" values="JAVA_MODULE" collectionTime="1511524689837" />
+      <project id="bigdata_solr" values="JAVA_MODULE" collectionTime="1471258935661" />
+      <project id="beijingThirdPeriod" values="JAVA_MODULE" collectionTime="1497439396703" />
+      <project id="lib" values="JAVA_MODULE" collectionTime="1500542124894" />
+      <project id="hanlp" values="JAVA_MODULE" collectionTime="1510738006700" />
+      <project id="classes" values="JAVA_MODULE" collectionTime="1471164308403" />
+      <project id="Scala" values="JAVA_MODULE" collectionTime="1470966298869" />
+      <project id="ISecCase2016" values="JAVA_MODULE" collectionTime="1483494225943" />
+      <project id="ikAnalyzea" values="JAVA_MODULE" collectionTime="1473835316130" />
+      <project id="phoenix-4.9-HBase-1.2" values="JAVA_MODULE" collectionTime="1515487653928" />
+      <project id="yuncai" values="JAVA_MODULE" collectionTime="1481625111476" />
+      <project id="RobinProject" values="JAVA_MODULE,SBT_MODULE" collectionTime="1480849370721" />
+      <project id="cmcc" values="JAVA_MODULE" collectionTime="1483433203512" />
+      <project id="workspace" values="JAVA_MODULE" collectionTime="1470367336163" />
+      <project id="streaming" values="JAVA_MODULE" collectionTime="1511752147816" />
+      <project id="ISecSearch" values="JAVA_MODULE" collectionTime="1481524654784" />
+      <project id="taotao-common" values="JAVA_MODULE" collectionTime="1470622655991" />
+    </group>
+    <group name="vcs-stats">
+      <project id="yisou" values="unversioned.files.count.0,vcs.roots.count.3+,ignored.files.count.0,has.default.vcs.root.mapping.disabled,active.changelists.count.1" collectionTime="1517906534559" />
+      <project id="scalaDemo" values="active.changelists.count.1,unversioned.files.count.0,has.default.vcs.root.mapping.enabled,vcs.roots.count.0,ignored.files.count.0" collectionTime="1515392171184" />
+      <project id="BeiJingThirdPeriod" values="ignored.files.count.0,vcs.roots.count.1,active.changelists.count.3+,has.default.vcs.root.mapping.enabled,unversioned.files.count.0" collectionTime="1519956961805" />
+      <project id="phoenix-4.9-HBase-1.2" values="active.changelists.count.1,ignored.files.count.0,vcs.roots.count.0,unversioned.files.count.0,has.default.vcs.root.mapping.enabled" collectionTime="1515487653928" />
+      <project id="phoenix" values="unversioned.files.count.0,ignored.files.count.0,vcs.roots.count.0,has.default.vcs.root.mapping.enabled,active.changelists.count.1" collectionTime="1515492889566" />
+      <project id="spark-parent_2.11" values="has.default.vcs.root.mapping.disabled,unversioned.files.count.1,active.changelists.count.1,ignored.files.count.0,vcs.roots.count.1" collectionTime="1515145022985" />
+      <project id="guanzong" values="has.default.vcs.root.mapping.enabled,unversioned.files.count.5+,ignored.files.count.0,vcs.roots.count.1,active.changelists.count.1" collectionTime="1519717984373" />
+      <project id="isec-center" values="active.changelists.count.1,unversioned.files.count.0,ignored.files.count.0,has.default.vcs.root.mapping.disabled,vcs.roots.count.5+" collectionTime="1519796237363" />
+    </group>
+    <group name="Git">
+      <project id="userSession" values="config.save.policy.STASH,config.warn.about.crlf.enabled,config.push.update.all.roots.enabled,config.ssh.enabled,data.remotes.in.project.1,data.remote.branches.count.1,data.local.branches.count.1,config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT,config.warn.about.detached.enabled,config.push.autoupdate.disabled,config.cherry-pick.autocommit.disabled,config.force.push.enabled" collectionTime="1495021370938" />
+      <project id="mr_demo" values="config.warn.about.detached.enabled,config.push.autoupdate.disabled,config.cherry-pick.autocommit.disabled,config.warn.about.crlf.enabled,config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT,config.push.update.all.roots.enabled,config.save.policy.STASH,config.ssh.enabled,config.force.push.enabled" collectionTime="1470974063120" />
+      <project id="test" values="config.cherry-pick.autocommit.disabled,config.save.policy.STASH,config.push.autoupdate.disabled,config.ssh.enabled,config.force.push.enabled,config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT,config.warn.about.crlf.enabled,config.push.update.all.roots.enabled" collectionTime="1511524420353" />
+      <project id="bigdata1" values="config.ssh.enabled,config.save.policy.STASH,config.update.type.BRANCH_DEFAULT,config.warn.about.detached.enabled,config.warn.about.crlf.enabled,config.push.update.all.roots.enabled,config.cherry-pick.autocommit.disabled,config.repo.sync.NOT_DECIDED,config.force.push.enabled,config.push.autoupdate.disabled" collectionTime="1490254499571" />
+      <project id="BeiJingThirdPeriod" values="config.push.autoupdate.disabled,config.save.policy.STASH,data.remotes.in.project.1,config.warn.about.crlf.enabled,data.local.branches.count.2+,config.cherry-pick.autocommit.disabled,config.warn.about.detached.enabled,data.remote.servers.github.com.1,config.force.push.enabled,version.2.16.0-CYGWIN,config.push.update.all.roots.enabled,data.remote.branches.count.5+,config.ssh.enabled,config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT" collectionTime="1519956962290" />
+      <project id="elasticsearch-analysis-ik" values="config.update.type.BRANCH_DEFAULT,config.cherry-pick.autocommit.disabled,config.force.push.enabled,config.ssh.enabled,config.push.update.all.roots.enabled,config.warn.about.detached.enabled,config.warn.about.crlf.enabled,config.repo.sync.NOT_DECIDED,config.save.policy.STASH,config.push.autoupdate.disabled" collectionTime="1488093878333" />
+      <project id="guanzong" values="config.update.type.BRANCH_DEFAULT,config.repo.sync.NOT_DECIDED,data.remote.servers.github.com.1,config.force.push.enabled,config.warn.about.detached.enabled,data.local.branches.count.1,config.warn.about.crlf.enabled,version.2.16.0-CYGWIN,data.remotes.in.project.1,config.cherry-pick.autocommit.disabled,config.save.policy.STASH,config.push.update.all.roots.enabled,config.push.autoupdate.disabled,config.ssh.enabled,data.remote.branches.count.1" collectionTime="1519717984664" />
+      <project id="java" values="config.repo.sync.NOT_DECIDED,config.save.policy.STASH,config.push.autoupdate.disabled,config.force.push.enabled,config.push.update.all.roots.enabled,config.cherry-pick.autocommit.disabled,config.warn.about.crlf.enabled,config.ssh.enabled,config.warn.about.detached.enabled,config.update.type.BRANCH_DEFAULT" collectionTime="1470707206369" />
+      <project id="bigdata" values="config.ssh.enabled,config.push.autoupdate.disabled,config.push.update.all.roots.enabled,config.update.type.BRANCH_DEFAULT,config.cherry-pick.autocommit.disabled,config.force.push.enabled,config.save.policy.STASH,config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED,config.warn.about.crlf.enabled" collectionTime="1508241729747" />
+      <project id="isec-center" values="data.local.branches.count.2+,data.remotes.in.project.1,data.remotes.in.project.1,config.repo.sync.DONT_SYNC,data.remote.branches.count.2+,config.save.policy.STASH,data.local.branches.count.2+,version.2.16.0-CYGWIN,data.local.branches.count.2+,config.push.autoupdate.disabled,data.remotes.in.project.1,config.force.push.enabled,config.cherry-pick.autocommit.disabled,data.remote.branches.count.2+,data.remotes.in.project.1,data.local.branches.count.2+,config.ssh.enabled,data.remote.branches.count.2+,config.warn.about.detached.enabled,config.push.update.all.roots.enabled,data.remotes.in.project.1,config.update.type.BRANCH_DEFAULT,data.remote.branches.count.2+,data.local.branches.count.1,data.remote.branches.count.2+,config.warn.about.crlf.enabled" collectionTime="1519796237726" />
+      <project id="mapreduce" values="config.update.type.BRANCH_DEFAULT,config.warn.about.crlf.enabled,config.push.autoupdate.disabled,config.cherry-pick.autocommit.disabled,config.ssh.enabled,config.force.push.enabled,config.repo.sync.NOT_DECIDED,config.save.policy.STASH,config.push.update.all.roots.enabled,config.warn.about.detached.enabled" collectionTime="1477371673551" />
+      <project id="spark-parent_2.11" values="config.warn.about.crlf.enabled,config.update.type.BRANCH_DEFAULT,version.2.15.0-CYGWIN,config.push.autoupdate.disabled,config.ssh.enabled,config.cherry-pick.autocommit.disabled,config.repo.sync.NOT_DECIDED,config.save.policy.STASH,data.remote.branches.count.15+,config.warn.about.detached.enabled,data.local.branches.count.2+,config.force.push.enabled,data.remote.servers.github.com.1,config.push.update.all.roots.enabled,data.remotes.in.project.1" collectionTime="1515145023240" />
+      <project id="taotao-parent" values="config.warn.about.crlf.enabled,config.cherry-pick.autocommit.disabled,config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED,config.push.update.all.roots.enabled,config.update.type.BRANCH_DEFAULT,config.push.autoupdate.disabled,config.ssh.enabled,config.force.push.enabled,config.save.policy.STASH" collectionTime="1471423327651" />
+      <project id="taotao" values="config.push.autoupdate.disabled,config.warn.about.detached.enabled,config.ssh.enabled,config.push.update.all.roots.enabled,config.cherry-pick.autocommit.disabled,config.save.policy.STASH,config.repo.sync.NOT_DECIDED,config.warn.about.crlf.enabled,config.force.push.enabled,config.update.type.BRANCH_DEFAULT" collectionTime="1472809170042" />
+      <project id="ikAnalyzer" values="config.force.push.enabled,config.push.update.all.roots.enabled,config.warn.about.crlf.enabled,config.warn.about.detached.enabled,config.push.autoupdate.disabled,config.cherry-pick.autocommit.disabled,config.repo.sync.NOT_DECIDED,config.ssh.enabled,config.update.type.BRANCH_DEFAULT,config.save.policy.STASH" collectionTime="1481186853151" />
+      <project id="beijingThirdPeriod-parent_2.10" values="config.ssh.enabled,config.push.autoupdate.disabled,config.force.push.enabled,config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED,config.warn.about.crlf.enabled,config.save.policy.STASH,config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT,config.warn.about.detached.enabled" collectionTime="1512372689627" />
+      <project id="springboot" values="config.save.policy.STASH,config.repo.sync.NOT_DECIDED,config.push.update.all.roots.enabled,config.ssh.enabled,config.cherry-pick.autocommit.disabled,config.warn.about.crlf.enabled,config.update.type.BRANCH_DEFAULT,config.force.push.enabled,config.push.autoupdate.disabled,config.warn.about.detached.enabled" collectionTime="1507544553874" />
+      <project id="bigdata.demo" values="data.remotes.in.project.1,config.ssh.enabled,config.warn.about.detached.enabled,config.cherry-pick.autocommit.disabled,config.force.push.enabled,config.save.policy.STASH,config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT,config.push.update.all.roots.enabled,config.warn.about.crlf.enabled,data.remote.branches.count.1,config.push.autoupdate.disabled,data.local.branches.count.1" collectionTime="1511347556677" />
+      <project id="SolrSearch" values="config.warn.about.detached.enabled,config.warn.about.crlf.enabled,config.update.type.BRANCH_DEFAULT,config.force.push.enabled,config.push.update.all.roots.enabled,config.cherry-pick.autocommit.disabled,config.repo.sync.NOT_DECIDED,config.save.policy.STASH,config.ssh.enabled,config.push.autoupdate.disabled" collectionTime="1470619331554" />
+      <project id="yisou-common" values="config.repo.sync.NOT_DECIDED,config.warn.about.crlf.enabled,config.push.autoupdate.disabled,config.push.update.all.roots.enabled,config.cherry-pick.autocommit.disabled,config.warn.about.detached.enabled,config.save.policy.STASH,config.ssh.enabled,config.force.push.enabled,config.update.type.BRANCH_DEFAULT" collectionTime="1505460492748" />
+      <project id="case" values="config.ssh.enabled,config.save.policy.STASH,config.force.push.enabled,config.warn.about.detached.enabled,config.warn.about.crlf.enabled,config.push.update.all.roots.enabled,config.cherry-pick.autocommit.disabled,config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT,config.push.autoupdate.disabled" collectionTime="1488093857071" />
+      <project id="eee" values="config.force.push.enabled,config.cherry-pick.autocommit.disabled,config.repo.sync.NOT_DECIDED,config.save.policy.STASH,config.warn.about.detached.enabled,config.warn.about.crlf.enabled,config.push.update.all.roots.enabled,config.update.type.BRANCH_DEFAULT,config.push.autoupdate.disabled,config.ssh.enabled" collectionTime="1511525649492" />
+      <project id="idea.exe.vmoptions" values="config.cherry-pick.autocommit.disabled,config.push.update.all.roots.enabled,config.push.autoupdate.disabled,config.ssh.enabled,config.update.type.BRANCH_DEFAULT,config.warn.about.crlf.enabled,config.warn.about.detached.enabled,config.force.push.enabled,config.save.policy.STASH,config.repo.sync.NOT_DECIDED" collectionTime="1497597913762" />
+      <project id="IK" values="config.ssh.enabled,data.local.branches.count.1,config.repo.sync.NOT_DECIDED,config.push.update.all.roots.enabled,config.force.push.enabled,config.warn.about.detached.enabled,config.save.policy.STASH,config.warn.about.crlf.enabled,config.cherry-pick.autocommit.disabled,data.remote.branches.count.1,config.update.type.BRANCH_DEFAULT,data.remotes.in.project.1,config.push.autoupdate.disabled" collectionTime="1481186283388" />
+      <project id="yuren" values="config.cherry-pick.autocommit.disabled,config.warn.about.detached.enabled,config.warn.about.crlf.enabled,config.push.autoupdate.disabled,config.force.push.enabled,config.update.type.BRANCH_DEFAULT,config.repo.sync.NOT_DECIDED,config.push.update.all.roots.enabled,config.save.policy.STASH,config.ssh.enabled" collectionTime="1496714450645" />
+      <project id="ikAnalyzea" values="config.update.type.BRANCH_DEFAULT,config.warn.about.crlf.enabled,config.save.policy.STASH,config.push.update.all.roots.enabled,config.warn.about.detached.enabled,config.push.autoupdate.disabled,config.ssh.enabled,config.repo.sync.NOT_DECIDED,config.force.push.enabled,config.cherry-pick.autocommit.disabled" collectionTime="1473835316170" />
+      <project id="yisou-solrj" values="config.force.push.enabled,config.warn.about.crlf.enabled,config.repo.sync.NOT_DECIDED,config.cherry-pick.autocommit.disabled,config.ssh.enabled,config.update.type.BRANCH_DEFAULT,config.warn.about.detached.enabled,config.push.update.all.roots.enabled,config.push.autoupdate.disabled,config.save.policy.STASH" collectionTime="1472466121364" />
+      <project id="yisou" values="data.remote.branches.count.1,config.push.autoupdate.disabled,data.remotes.in.project.1,config.force.push.enabled,version.2.15.0-CYGWIN,config.cherry-pick.autocommit.disabled,data.local.branches.count.1,config.warn.about.crlf.enabled,data.local.branches.count.1,data.remote.branches.count.1,config.save.policy.STASH,config.repo.sync.NOT_DECIDED,config.warn.about.detached.enabled,config.update.type.BRANCH_DEFAULT,data.remote.branches.count.1,config.ssh.enabled,data.local.branches.count.1,data.remotes.in.project.1,config.push.update.all.roots.enabled,data.remotes.in.project.1" collectionTime="1517906534647" />
+      <project id="SparkAction" values="config.cherry-pick.autocommit.disabled,config.push.update.all.roots.enabled,config.update.type.BRANCH_DEFAULT,config.force.push.enabled,config.warn.about.crlf.enabled,config.ssh.enabled,config.warn.about.detached.enabled,config.push.autoupdate.disabled,config.repo.sync.NOT_DECIDED,config.save.policy.STASH" collectionTime="1475031842140" />
+      <project id="spark" values="config.push.update.all.roots.enabled,config.warn.about.detached.enabled,config.cherry-pick.autocommit.disabled,config.push.autoupdate.disabled,config.repo.sync.NOT_DECIDED,config.save.policy.STASH,config.force.push.enabled,config.update.type.BRANCH_DEFAULT,config.warn.about.crlf.enabled,config.ssh.enabled" collectionTime="1493099311880" />
+      <project id="yunchen" values="config.ssh.enabled,config.warn.about.crlf.enabled,config.push.update.all.roots.enabled,config.cherry-pick.autocommit.disabled,data.remotes.in.project.1,config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT,data.local.branches.count.2+,data.remote.branches.count.2+,config.save.policy.STASH,config.push.autoupdate.disabled,config.warn.about.detached.enabled,config.force.push.enabled" collectionTime="1507713246799" />
+      <project id="sss" values="config.update.type.BRANCH_DEFAULT,config.force.push.enabled,config.push.update.all.roots.enabled,config.save.policy.STASH,config.ssh.enabled,config.push.autoupdate.disabled,config.warn.about.detached.enabled,config.warn.about.crlf.enabled,config.repo.sync.NOT_DECIDED,config.cherry-pick.autocommit.disabled" collectionTime="1511525155183" />
+      <project id="RobinProject" values="config.warn.about.detached.enabled,config.warn.about.crlf.enabled,config.repo.sync.NOT_DECIDED,config.force.push.enabled,config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT,config.push.autoupdate.disabled,config.ssh.enabled,config.push.update.all.roots.enabled,config.save.policy.STASH" collectionTime="1480849370767" />
+      <project id="orskr" values="config.repo.sync.NOT_DECIDED,config.ssh.enabled,config.cherry-pick.autocommit.disabled,config.save.policy.STASH,config.push.autoupdate.disabled,config.warn.about.crlf.enabled,config.warn.about.detached.enabled,config.update.type.BRANCH_DEFAULT,config.force.push.enabled,config.push.update.all.roots.enabled" collectionTime="1500608808360" />
+      <project id="ik-analyzer" values="config.save.policy.STASH,config.push.autoupdate.disabled,config.repo.sync.NOT_DECIDED,config.force.push.enabled,config.cherry-pick.autocommit.disabled,config.warn.about.detached.enabled,config.ssh.enabled,config.warn.about.crlf.enabled,config.update.type.BRANCH_DEFAULT,config.push.update.all.roots.enabled" collectionTime="1470397256990" />
+      <project id="scalaDemo" values="config.force.push.enabled,config.warn.about.crlf.enabled,version.0.0.0-NULL,config.warn.about.detached.enabled,config.push.autoupdate.disabled,config.ssh.enabled,config.save.policy.STASH,config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT,config.repo.sync.NOT_DECIDED,config.push.update.all.roots.enabled" collectionTime="1515392171580" />
+      <project id="SparkJob" values="config.warn.about.crlf.enabled,config.cherry-pick.autocommit.disabled,config.push.update.all.roots.enabled,config.save.policy.STASH,config.ssh.enabled,config.repo.sync.NOT_DECIDED,config.force.push.enabled,config.warn.about.detached.enabled,config.push.autoupdate.disabled,config.update.type.BRANCH_DEFAULT" collectionTime="1505460378869" />
+      <project id="phoenix" values="config.warn.about.crlf.enabled,config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED,config.warn.about.detached.enabled,config.save.policy.STASH,version.0.0.0-NULL,config.push.autoupdate.disabled,config.force.push.enabled,config.ssh.enabled,config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT" collectionTime="1515492889736" />
+      <project id="aaa" values="config.repo.sync.NOT_DECIDED,config.push.autoupdate.disabled,config.force.push.enabled,config.ssh.enabled,config.warn.about.crlf.enabled,config.save.policy.STASH,config.update.type.BRANCH_DEFAULT,config.push.update.all.roots.enabled,config.cherry-pick.autocommit.disabled,config.warn.about.detached.enabled" collectionTime="1511524689886" />
+      <project id="bigdata_solr" values="config.warn.about.detached.enabled,config.warn.about.crlf.enabled,config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT,config.save.policy.STASH,config.push.autoupdate.disabled,config.push.update.all.roots.enabled,config.force.push.enabled,config.ssh.enabled,config.repo.sync.NOT_DECIDED" collectionTime="1471258935810" />
+      <project id="beijingThirdPeriod" values="config.warn.about.crlf.enabled,config.force.push.enabled,config.ssh.enabled,config.push.autoupdate.disabled,config.save.policy.STASH,config.cherry-pick.autocommit.disabled,config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT,config.push.update.all.roots.enabled" collectionTime="1497439396791" />
+      <project id="lib" values="config.warn.about.detached.enabled,config.update.type.BRANCH_DEFAULT,config.push.update.all.roots.enabled,config.push.autoupdate.disabled,config.force.push.enabled,config.ssh.enabled,config.save.policy.STASH,config.repo.sync.NOT_DECIDED,config.cherry-pick.autocommit.disabled,config.warn.about.crlf.enabled" collectionTime="1500542124912" />
+      <project id="hanlp" values="config.ssh.enabled,config.warn.about.crlf.enabled,config.force.push.enabled,config.save.policy.STASH,data.remotes.in.project.1,config.push.update.all.roots.enabled,config.update.type.BRANCH_DEFAULT,config.push.autoupdate.disabled,config.warn.about.detached.enabled,data.remote.branches.count.2+,config.repo.sync.NOT_DECIDED,config.cherry-pick.autocommit.disabled,data.local.branches.count.1" collectionTime="1510738006733" />
+      <project id="classes" values="config.save.policy.STASH,config.push.autoupdate.disabled,config.warn.about.detached.enabled,config.warn.about.crlf.enabled,config.cherry-pick.autocommit.disabled,config.force.push.enabled,config.update.type.BRANCH_DEFAULT,config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED,config.ssh.enabled" collectionTime="1471164308419" />
+      <project id="Scala" values="config.force.push.enabled,config.update.type.BRANCH_DEFAULT,config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED,config.save.policy.STASH,config.push.autoupdate.disabled,config.warn.about.detached.enabled,config.cherry-pick.autocommit.disabled,config.ssh.enabled,config.warn.about.crlf.enabled" collectionTime="1470966298942" />
+      <project id="ISecCase2016" values="config.ssh.enabled,config.force.push.enabled,config.warn.about.crlf.enabled,config.cherry-pick.autocommit.disabled,config.push.update.all.roots.enabled,config.warn.about.detached.enabled,config.save.policy.STASH,config.update.type.BRANCH_DEFAULT,config.repo.sync.NOT_DECIDED,config.push.autoupdate.disabled" collectionTime="1483494225976" />
+      <project id="phoenix-4.9-HBase-1.2" values="config.cherry-pick.autocommit.disabled,config.ssh.enabled,version.0.0.0-NULL,config.push.autoupdate.disabled,config.force.push.enabled,config.save.policy.STASH,config.push.update.all.roots.enabled,config.update.type.BRANCH_DEFAULT,config.warn.about.detached.enabled,config.warn.about.crlf.enabled,config.repo.sync.NOT_DECIDED" collectionTime="1515487654135" />
+      <project id="yuncai" values="config.cherry-pick.autocommit.disabled,config.force.push.enabled,config.push.autoupdate.disabled,config.repo.sync.NOT_DECIDED,config.warn.about.detached.enabled,config.save.policy.STASH,config.ssh.enabled,config.warn.about.crlf.enabled,config.push.update.all.roots.enabled,config.update.type.BRANCH_DEFAULT" collectionTime="1481625111529" />
+      <project id="yisou-search" values="config.repo.sync.NOT_DECIDED,config.warn.about.detached.enabled,config.push.update.all.roots.enabled,config.ssh.enabled,config.save.policy.STASH,config.update.type.BRANCH_DEFAULT,config.push.autoupdate.disabled,config.warn.about.crlf.enabled,config.force.push.enabled,config.cherry-pick.autocommit.disabled" collectionTime="1503567997916" />
+      <project id="cmcc" values="config.cherry-pick.autocommit.disabled,config.warn.about.crlf.enabled,config.push.update.all.roots.enabled,config.repo.sync.DONT_SYNC,config.push.autoupdate.disabled,config.warn.about.detached.enabled,config.save.policy.STASH,config.ssh.enabled,config.force.push.enabled,config.update.type.BRANCH_DEFAULT" collectionTime="1483433203667" />
+      <project id="tysz2012" values="config.update.type.BRANCH_DEFAULT,config.push.update.all.roots.enabled,config.force.push.enabled,config.warn.about.crlf.enabled,config.ssh.enabled,config.save.policy.STASH,config.push.autoupdate.disabled,config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED,config.cherry-pick.autocommit.disabled" collectionTime="1483511566968" />
+      <project id="streaming" values="config.warn.about.detached.enabled,config.save.policy.STASH,config.update.type.BRANCH_DEFAULT,config.repo.sync.NOT_DECIDED,config.ssh.enabled,config.warn.about.crlf.enabled,config.push.update.all.roots.enabled,config.push.autoupdate.disabled,config.cherry-pick.autocommit.disabled,config.force.push.enabled" collectionTime="1511752147863" />
+      <project id="ISecSearch" values="config.force.push.enabled,config.ssh.enabled,config.push.autoupdate.disabled,config.warn.about.detached.enabled,config.cherry-pick.autocommit.disabled,config.repo.sync.NOT_DECIDED,config.push.update.all.roots.enabled,config.update.type.BRANCH_DEFAULT,config.warn.about.crlf.enabled,config.save.policy.STASH" collectionTime="1481524654872" />
+      <project id="taotao-common" values="config.cherry-pick.autocommit.disabled,config.warn.about.crlf.enabled,config.ssh.enabled,config.update.type.BRANCH_DEFAULT,config.force.push.enabled,config.push.autoupdate.disabled,config.push.update.all.roots.enabled,config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED,config.save.policy.STASH" collectionTime="1470622656024" />
+    </group>
+    <group name="images.ide.background">
+      <project id="userSession" values="frame 0,editor 0" collectionTime="1495021370934" />
+      <project id="mr_demo" values="frame 0,editor 0" collectionTime="1470974063120" />
+      <project id="test" values="editor 0,frame 0" collectionTime="1511524420352" />
+      <project id="bigdata1" values="frame 0,editor 0" collectionTime="1490254499568" />
+      <project id="workspace" values="frame 0,editor 0" collectionTime="1470367336171" />
+      <project id="java" values="editor 0,frame 0" collectionTime="1470707206367" />
+      <project id="idea.exe.vmoptions" values="frame 0,editor 0" collectionTime="1497597913751" />
+      <project id="bigdata" values="frame 0,editor 0" collectionTime="1508241729747" />
+      <project id="mapreduce" values="frame 0,editor 0" collectionTime="1477371673550" />
+      <project id="ISecCase2016" values="frame 0,editor 0" collectionTime="1483494225975" />
+      <project id="taotao-parent" values="editor 0,frame 0" collectionTime="1471423327649" />
+      <project id="SolrSearch" values="editor 0,frame 0" collectionTime="1470619331552" />
+      <project id="taotao" values="editor 0,frame 0" collectionTime="1472809170036" />
+      <project id="ikAnalyzer" values="editor 0,frame 0" collectionTime="1481186853150" />
+      <project id="elasticsearch-analysis-ik" values="editor 0,frame 0" collectionTime="1488093878326" />
+      <project id="beijingThirdPeriod-parent_2.10" values="frame 0,editor 0" collectionTime="1512372689624" />
+      <project id="springboot" values="editor 0,frame 0" collectionTime="1507544553067" />
+      <project id="bigdata.demo" values="editor 0,frame 0" collectionTime="1511347556676" />
+      <project id="IK" values="editor 0,frame 0" collectionTime="1481186283371" />
+      <project id="yisou-common" values="frame 0,editor 0" collectionTime="1505460492745" />
+      <project id="eee" values="frame 0,editor 0" collectionTime="1511525649490" />
+      <project id="sss" values="editor 0,frame 0" collectionTime="1511525155182" />
+      <project id="yuren" values="editor 0,frame 0" collectionTime="1496714450643" />
+      <project id="ikAnalyzea" values="editor 0,frame 0" collectionTime="1473835316169" />
+      <project id="yisou-solrj" values="frame 0,editor 0" collectionTime="1472466121354" />
+      <project id="yunchen" values="frame 0,editor 0" collectionTime="1507713246609" />
+      <project id="SparkAction" values="frame 0,editor 0" collectionTime="1475031842139" />
+      <project id="spark" values="frame 0,editor 0" collectionTime="1493099311874" />
+      <project id="case" values="editor 0,frame 0" collectionTime="1488093855921" />
+      <project id="RobinProject" values="editor 0,frame 0" collectionTime="1480849370766" />
+      <project id="orskr" values="editor 0,frame 0" collectionTime="1500608808354" />
+      <project id="ik-analyzer" values="editor 0,frame 0" collectionTime="1470397256990" />
+      <project id="SparkJob" values="frame 0,editor 0" collectionTime="1505460378868" />
+      <project id="aaa" values="frame 0,editor 0" collectionTime="1511524689885" />
+      <project id="bigdata_solr" values="frame 0,editor 0" collectionTime="1471258935809" />
+      <project id="beijingThirdPeriod" values="editor 0,frame 0" collectionTime="1497439396781" />
+      <project id="lib" values="editor 0,frame 0" collectionTime="1500542124910" />
+      <project id="hanlp" values="frame 0,editor 0" collectionTime="1510738006732" />
+      <project id="classes" values="frame 0,editor 0" collectionTime="1471164308418" />
+      <project id="Scala" values="editor 0,frame 0" collectionTime="1470966298940" />
+      <project id="yuncai" values="frame 0,editor 0" collectionTime="1481625111525" />
+      <project id="yisou-search" values="frame 0,editor 0" collectionTime="1503567997908" />
+      <project id="cmcc" values="editor 0,frame 0" collectionTime="1483433203618" />
+      <project id="tysz2012" values="frame 0,editor 0" collectionTime="1483511566944" />
+      <project id="streaming" values="editor 0,frame 0" collectionTime="1511752147863" />
+      <project id="ISecSearch" values="frame 0,editor 0" collectionTime="1481524654870" />
+      <project id="taotao-common" values="editor 0,frame 0" collectionTime="1470622656023" />
+    </group>
+    <group name="frameworks">
+      <project id="guanzong" values="Spring,web" collectionTime="1519717984374" />
+      <project id="userSession" values="web" collectionTime="1495021370774" />
+      <project id="yisou-search" values="Spring,web" collectionTime="1503567997861" />
+      <project id="phoenix" values="Python,web" collectionTime="1515492889566" />
+      <project id="cmcc" values="Spring,web" collectionTime="1483433203512" />
+      <project id="beijingThirdPeriod" values="Spring,web" collectionTime="1497439396703" />
+      <project id="yisou-common" values="Spring,web" collectionTime="1505460492561" />
+      <project id="tysz2012" values="Spring,web" collectionTime="1483511566890" />
+      <project id="case" values="web" collectionTime="1488093855452" />
+      <project id="yisou" values="Spring,web" collectionTime="1517906534559" />
+      <project id="springboot" values="web" collectionTime="1507544551424" />
+      <project id="yuncai" values="Spring,web" collectionTime="1481625111476" />
+      <project id="taotao" values="web" collectionTime="1472809169977" />
+      <project id="BeiJingThirdPeriod" values="Python,Spring,web" collectionTime="1519956961805" />
+      <project id="ISecSearch" values="web,Spring" collectionTime="1481524654784" />
+      <project id="isec-center" values="Spring" collectionTime="1519796237363" />
+      <project id="SolrSearch" values="web" collectionTime="1470619331335" />
+    </group>
+    <group name="language-level">
+      <project id="userSession" values="JDK_1_8,JDK_1_7" collectionTime="1495021370937" />
+      <project id="mr_demo" values="JDK_1_5,JDK_1_7" collectionTime="1470974063120" />
+      <project id="test" values="JDK_1_8,JDK_1_5" collectionTime="1511524420353" />
+      <project id="bigdata1" values="JDK_1_8" collectionTime="1490254499571" />
+      <project id="BeiJingThirdPeriod" values="JDK_1_8" collectionTime="1514861484644" />
+      <project id="java" values="JDK_1_3" collectionTime="1470707206368" />
+      <project id="idea.exe.vmoptions" values="JDK_1_3" collectionTime="1497597913761" />
+      <project id="bigdata" values="JDK_1_8" collectionTime="1508241729747" />
+      <project id="mapreduce" values="JDK_1_5,JDK_1_7" collectionTime="1477371673551" />
+      <project id="spark-parent_2.11" values="JDK_1_5,JDK_1_7,JDK_1_8" collectionTime="1512623063516" />
+      <project id="taotao-parent" values="JDK_1_8,JDK_1_7" collectionTime="1471423327651" />
+      <project id="workspace" values="JDK_1_3" collectionTime="1470367336172" />
+      <project id="taotao" values="JDK_1_8,JDK_1_7" collectionTime="1472809170041" />
+      <project id="ikAnalyzer" values="JDK_1_8" collectionTime="1481186853150" />
+      <project id="elasticsearch-analysis-ik" values="JDK_1_8" collectionTime="1488093878333" />
+      <project id="beijingThirdPeriod-parent_2.10" values="JDK_1_8" collectionTime="1512372689627" />
+      <project id="springboot" values="JDK_1_8" collectionTime="1507544553873" />
+      <project id="bigdata.demo" values="JDK_1_8" collectionTime="1511347556677" />
+      <project id="SolrSearch" values="JDK_1_5,JDK_1_7" collectionTime="1470619331553" />
+      <project id="yisou-common" values="JDK_1_8" collectionTime="1505460492748" />
+      <project id="case" values="JDK_1_7" collectionTime="1488093857069" />
+      <project id="eee" values="JDK_1_5,JDK_1_8" collectionTime="1511525649492" />
+      <project id="sss" values="JDK_1_8,JDK_1_5" collectionTime="1511525155183" />
+      <project id="yuren" values="JDK_1_8,JDK_1_5" collectionTime="1496714450645" />
+      <project id="ikAnalyzea" values="JDK_1_5,JDK_1_8" collectionTime="1473835316170" />
+      <project id="yisou-solrj" values="JDK_1_8" collectionTime="1472466121363" />
+      <project id="yisou" values="JDK_1_8" collectionTime="1512124865655" />
+      <project id="yunchen" values="JDK_1_8" collectionTime="1507713246795" />
+      <project id="SparkAction" values="JDK_1_8" collectionTime="1475031842140" />
+      <project id="spark" values="JDK_1_8" collectionTime="1493099311879" />
+      <project id="guanzong" values="JDK_1_8" collectionTime="1514857549337" />
+      <project id="RobinProject" values="JDK_1_8" collectionTime="1480849370767" />
+      <project id="orskr" values="JDK_1_3" collectionTime="1500608808359" />
+      <project id="ik-analyzer" values="JDK_1_7,JDK_1_5" collectionTime="1470397256990" />
+      <project id="scalaDemo" values="JDK_1_8" collectionTime="1470810254119" />
+      <project id="SparkJob" values="JDK_1_8" collectionTime="1505460378869" />
+      <project id="beijingThirdPeriod" values="JDK_1_8" collectionTime="1497439396790" />
+      <project id="aaa" values="JDK_1_8,JDK_1_5" collectionTime="1511524689886" />
+      <project id="bigdata_solr" values="JDK_1_8" collectionTime="1471258935810" />
+      <project id="IK" values="JDK_1_7" collectionTime="1481186283373" />
+      <project id="lib" values="JDK_1_3" collectionTime="1500542124912" />
+      <project id="hanlp" values="JDK_1_8,JDK_1_6" collectionTime="1510738006733" />
+      <project id="classes" values="JDK_1_3" collectionTime="1471164308419" />
+      <project id="Scala" values="JDK_1_8" collectionTime="1470966298941" />
+      <project id="ISecCase2016" values="JDK_1_3" collectionTime="1483494225976" />
+      <project id="yuncai" values="JDK_1_8,JDK_1_6" collectionTime="1481625111529" />
+      <project id="yisou-search" values="JDK_1_8" collectionTime="1503567997915" />
+      <project id="cmcc" values="JDK_1_7" collectionTime="1483433203667" />
+      <project id="tysz2012" values="JDK_1_8" collectionTime="1483511566968" />
+      <project id="streaming" values="JDK_1_5,JDK_1_8" collectionTime="1511752147863" />
+      <project id="ISecSearch" values="JDK_1_7" collectionTime="1481524654872" />
+      <project id="taotao-common" values="JDK_1_5,JDK_1_7" collectionTime="1470622656023" />
+    </group>
+    <group name="vcs-options">
+      <project id="yisou" values="commit.before.check.non.empty.comment.disabled,commit.before.check.todo.enabled,commit.use.right.margin.enabled,check.conflicts.in.background.disabled,perform.edit.in.background.enabled,offer.remove.empty.changelist.show_confirmation,commit.before.check.code.cleanup.disabled,include.text.into.shelf.enabled,commit.before.reformat.project.disabled,changelist.make.new.active.disabled,commit.show.unversioned.enabled,changelist.preselect.existing.disabled,commit.before.optimize.imports.disabled,commit.before.rearrange.disabled,perform.commit.in.background.enabled,offer.move.partially.committed.disabled,show.changes.preview.disabled,offer.move.failed.committed.do_nothing_silently,perform.add_remove.in.background.enabled,perform.checkout.in.background.enabled,perform.rollback.in.background.disabled,commit.before.check.code.smell.enabled,perform.update.in.background.enabled,commit.clear.initial.comment.disabled" collectionTime="1517906534558" />
+      <project id="scalaDemo" values="commit.before.optimize.imports.disabled,include.text.into.shelf.enabled,commit.before.check.code.smell.enabled,offer.move.failed.committed.do_nothing_silently,show.changes.preview.disabled,perform.edit.in.background.enabled,perform.checkout.in.background.enabled,commit.show.unversioned.enabled,check.conflicts.in.background.disabled,changelist.preselect.existing.disabled,commit.use.right.margin.enabled,commit.clear.initial.comment.disabled,perform.update.in.background.enabled,perform.rollback.in.background.disabled,commit.before.check.todo.enabled,commit.before.check.code.cleanup.disabled,offer.move.partially.committed.disabled,changelist.make.new.active.disabled,commit.before.check.non.empty.comment.disabled,perform.add_remove.in.background.enabled,commit.before.rearrange.disabled,offer.remove.empty.changelist.show_confirmation,perform.commit.in.background.enabled,commit.before.reformat.project.disabled" collectionTime="1515392171181" />
+      <project id="BeiJingThirdPeriod" values="commit.before.check.todo.enabled,commit.before.check.code.smell.enabled,perform.update.in.background.enabled,include.text.into.shelf.enabled,perform.edit.in.background.enabled,perform.commit.in.background.enabled,offer.remove.empty.changelist.show_confirmation,perform.add_remove.in.background.enabled,changelist.preselect.existing.disabled,commit.use.right.margin.enabled,show.changes.preview.disabled,changelist.make.new.active.disabled,commit.before.check.non.empty.comment.disabled,commit.before.rearrange.disabled,commit.show.unversioned.enabled,check.conflicts.in.background.disabled,perform.checkout.in.background.enabled,commit.before.reformat.project.disabled,perform.rollback.in.background.disabled,commit.clear.initial.comment.disabled,offer.move.failed.committed.do_nothing_silently,offer.move.partially.committed.disabled,commit.before.check.code.cleanup.disabled,commit.before.optimize.imports.disabled" collectionTime="1519956961789" />
+      <project id="phoenix-4.9-HBase-1.2" values="check.conflicts.in.background.disabled,commit.before.check.code.cleanup.disabled,perform.update.in.background.enabled,include.text.into.shelf.enabled,commit.before.rearrange.disabled,commit.show.unversioned.enabled,changelist.make.new.active.disabled,perform.add_remove.in.background.enabled,show.changes.preview.disabled,changelist.preselect.existing.disabled,offer.move.failed.committed.do_nothing_silently,commit.use.right.margin.enabled,offer.remove.empty.changelist.show_confirmation,commit.before.check.todo.enabled,perform.rollback.in.background.disabled,perform.edit.in.background.enabled,commit.before.optimize.imports.disabled,perform.commit.in.background.enabled,commit.before.check.code.smell.enabled,offer.move.partially.committed.disabled,commit.before.check.non.empty.comment.disabled,commit.before.reformat.project.disabled,perform.checkout.in.background.enabled,commit.clear.initial.comment.disabled" collectionTime="1515487653928" />
+      <project id="phoenix" values="show.changes.preview.disabled,commit.before.check.code.cleanup.disabled,commit.before.check.non.empty.comment.disabled,changelist.preselect.existing.disabled,commit.before.check.todo.enabled,perform.add_remove.in.background.enabled,perform.checkout.in.background.enabled,check.conflicts.in.background.disabled,perform.commit.in.background.enabled,commit.before.reformat.project.disabled,commit.use.right.margin.enabled,commit.before.rearrange.disabled,commit.show.unversioned.enabled,offer.move.partially.committed.disabled,commit.clear.initial.comment.disabled,perform.update.in.background.enabled,offer.remove.empty.changelist.show_confirmation,include.text.into.shelf.enabled,perform.rollback.in.background.disabled,offer.move.failed.committed.do_nothing_silently,commit.before.check.code.smell.enabled,changelist.make.new.active.disabled,perform.edit.in.background.enabled,commit.before.optimize.imports.disabled" collectionTime="1515492889566" />
+      <project id="spark-parent_2.11" values="show.changes.preview.disabled,commit.before.check.todo.enabled,commit.show.unversioned.enabled,commit.before.rearrange.disabled,commit.before.check.code.cleanup.disabled,offer.remove.empty.changelist.show_confirmation,perform.checkout.in.background.enabled,perform.add_remove.in.background.enabled,check.conflicts.in.background.disabled,commit.before.check.non.empty.comment.disabled,commit.before.reformat.project.disabled,changelist.make.new.active.disabled,perform.commit.in.background.enabled,perform.rollback.in.background.disabled,perform.edit.in.background.enabled,commit.before.optimize.imports.disabled,changelist.preselect.existing.disabled,include.text.into.shelf.enabled,commit.before.check.code.smell.enabled,commit.use.right.margin.enabled,offer.move.partially.committed.disabled,perform.update.in.background.enabled,commit.clear.initial.comment.disabled,offer.move.failed.committed.do_nothing_silently" collectionTime="1515145022985" />
+      <project id="guanzong" values="commit.before.check.code.smell.enabled,perform.commit.in.background.enabled,perform.update.in.background.enabled,offer.move.failed.committed.do_nothing_silently,commit.show.unversioned.enabled,perform.checkout.in.background.enabled,perform.rollback.in.background.disabled,changelist.make.new.active.disabled,commit.clear.initial.comment.disabled,commit.before.reformat.project.disabled,commit.before.optimize.imports.disabled,include.text.into.shelf.enabled,show.changes.preview.disabled,check.conflicts.in.background.disabled,offer.move.partially.committed.disabled,changelist.preselect.existing.disabled,offer.remove.empty.changelist.show_confirmation,commit.before.check.non.empty.comment.disabled,perform.add_remove.in.background.enabled,commit.before.rearrange.disabled,perform.edit.in.background.enabled,commit.before.check.code.cleanup.disabled,commit.use.right.margin.enabled,commit.before.check.todo.enabled" collectionTime="1519717984370" />
+      <project id="isec-center" values="offer.remove.empty.changelist.show_confirmation,commit.use.right.margin.enabled,perform.rollback.in.background.disabled,perform.add_remove.in.background.enabled,check.conflicts.in.background.disabled,commit.before.rearrange.disabled,commit.before.check.code.cleanup.disabled,commit.clear.initial.comment.disabled,commit.show.unversioned.enabled,commit.before.check.non.empty.comment.disabled,perform.update.in.background.enabled,perform.checkout.in.background.enabled,commit.before.optimize.imports.disabled,offer.move.partially.committed.disabled,perform.edit.in.background.enabled,offer.move.failed.committed.do_nothing_silently,perform.commit.in.background.enabled,include.text.into.shelf.enabled,commit.before.check.todo.enabled,changelist.preselect.existing.disabled,show.changes.preview.disabled,commit.before.check.code.smell.enabled,commit.before.reformat.project.disabled,changelist.make.new.active.disabled" collectionTime="1519796237360" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="CreateFile.CreateFileAction" count="41" />
+      <entry feature="CreateFile.CreateSpringConfigAction" count="3" />
+      <entry feature="CreateFile.CreateTaglibFileAction" count="2" />
+      <entry feature="StripeButton[Ant Build].hidden" count="1" />
+      <entry feature="StripeButton[Documentation].hidden" count="2" />
+      <entry feature="StripeButton[Java Enterprise].hidden" count="2" />
+      <entry feature="StripeButton[Problems].hidden" count="1" />
+      <entry feature="StripeButton[Spring].hidden" count="1" />
+      <entry feature="StripeButton[TODO].hidden" count="1" />
+      <entry feature="StripeButton[Version Control].hidden" count="2" />
+      <entry feature="StripeButton[Version Control].shown" count="3" />
+      <entry feature="debugger.reload.classes" count="20" />
+      <entry feature="execute.#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Debug" count="194" />
+      <entry feature="execute.#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Run" count="17" />
+      <entry feature="execute.Application.Coverage" count="6" />
+      <entry feature="execute.Application.Debug" count="941" />
+      <entry feature="execute.Application.Run" count="2480" />
+      <entry feature="execute.BashConfigurationType.Run" count="1" />
+      <entry feature="execute.JUnit.Debug" count="14" />
+      <entry feature="execute.JUnit.Run" count="89" />
+      <entry feature="execute.MavenRunConfiguration.Debug" count="1" />
+      <entry feature="execute.MavenRunConfiguration.Run" count="4" />
+      <entry feature="execute.SpringBootApplicationConfigurationType.Run" count="30" />
+      <entry feature="ide.help.ideaInterface.editor" count="15" />
+      <entry feature="ide.help.refactoring.renameFile" count="1" />
+      <entry feature="ide.help.reference.dialogs.breakpoints" count="1" />
+      <entry feature="ide.help.reference.settingsdialog.project.structure.artifacts" count="1" />
+      <entry feature="ide.help.select.path.dialog" count="2" />
+      <entry feature="ide.settings.Appearance" count="28" />
+      <entry feature="ide.settings.Application&#10;Servers" count="2" />
+      <entry feature="ide.settings.Code Style" count="3" />
+      <entry feature="ide.settings.Code_Completion" count="1" />
+      <entry feature="ide.settings.Code_Folding" count="1" />
+      <entry feature="ide.settings.Color Scheme" count="1" />
+      <entry feature="ide.settings.Color Scheme Font" count="12" />
+      <entry feature="ide.settings.Colors_&amp;_Fonts" count="3" />
+      <entry feature="ide.settings.Compiler" count="2" />
+      <entry feature="ide.settings.Console Font" count="6" />
+      <entry feature="ide.settings.Console_Font" count="2" />
+      <entry feature="ide.settings.Deployment" count="1" />
+      <entry feature="ide.settings.Editor Tabs" count="1" />
+      <entry feature="ide.settings.Editor_Tabs" count="1" />
+      <entry feature="ide.settings.File Encodings" count="3" />
+      <entry feature="ide.settings.File_Encodings" count="3" />
+      <entry feature="ide.settings.File_Types" count="4" />
+      <entry feature="ide.settings.File_and_Code_Templates" count="1" />
+      <entry feature="ide.settings.Font" count="17" />
+      <entry feature="ide.settings.General" count="14" />
+      <entry feature="ide.settings.Git" count="1" />
+      <entry feature="ide.settings.GitHub" count="3" />
+      <entry feature="ide.settings.Ignored_Files" count="2" />
+      <entry feature="ide.settings.Importing" count="2" />
+      <entry feature="ide.settings.Inspections" count="5" />
+      <entry feature="ide.settings.Java" count="5" />
+      <entry feature="ide.settings.Java_Compiler" count="13" />
+      <entry feature="ide.settings.Keymap" count="7" />
+      <entry feature="ide.settings.Language_Defaults" count="1" />
+      <entry feature="ide.settings.Maven" count="22" />
+      <entry feature="ide.settings.Menus_and_Toolbars" count="1" />
+      <entry feature="ide.settings.Plugins" count="17" />
+      <entry feature="ide.settings.Project Structure" count="1" />
+      <entry feature="ide.settings.Project_Structure" count="9" />
+      <entry feature="ide.settings.Repositories" count="1" />
+      <entry feature="ide.settings.Runner" count="1" />
+      <entry feature="ide.settings.SQL_Dialects" count="1" />
+      <entry feature="ide.settings.Scala" count="1" />
+      <entry feature="ide.settings.Scala_Compile_Server" count="1" />
+      <entry feature="ide.settings.Smart_Keys" count="1" />
+      <entry feature="ide.settings.System Settings" count="1" />
+      <entry feature="ide.settings.System_Settings" count="2" />
+      <entry feature="ide.settings.Tomcat_Server" count="2" />
+      <entry feature="ide.settings.Updates" count="1" />
+      <entry feature="ide.settings.Version_Control" count="1" />
+      <entry feature="ide.settings.Vim_Emulation" count="5" />
+      <entry feature="idea.caches.invalidated" count="18" />
+      <entry feature="ideaapp.started" count="307" />
+      <entry feature="scala.debugger" count="119" />
+      <entry feature="scala.debugger.evaluator" count="135" />
+      <entry feature="scala.extract.method" count="1" />
+      <entry feature="scala.file.script.parsed" count="456063" />
+      <entry feature="scala.file.with.type.aware.annotated" count="24787" />
+      <entry feature="scala.file.without.type.aware.annotated" count="1" />
+      <entry feature="scala.introduce.variable" count="11" />
+      <entry feature="scala.macro.expand" count="1" />
+      <entry feature="scala.move.class" count="21" />
+      <entry feature="scala.rename.local" count="13" />
+      <entry feature="scala.rename.member" count="4" />
+      <entry feature="scala.structure.view" count="18" />
+      <entry feature="show.recent.tests.action" count="1" />
+      <entry feature="spring.SpringConfigurationCheck.FileCount.java" count="5" />
+      <entry feature="spring.SpringConfigurationCheck.FileCount.xml" count="524" />
+      <entry feature="spring.SpringFacetInspection.AddFacetFix" count="3" />
+      <entry feature="spring.SpringFacetInspection.ConfigureFileSetFix" count="2" />
+      <entry feature="terminal.ssh" count="2" />
+      <entry feature="terminal.win" count="39" />
+      <entry feature="uml.ShowDiagram.DIFF.popup" count="1" />
+      <entry feature="uml.ShowDiagram.JAVA" count="3" />
+      <entry feature="uml.ShowDiagram.JAVA.popup" count="2" />
+      <entry feature="uml.ShowDiagram.MAVEN" count="101" />
+      <entry feature="uml.ShowDiagram.MODULES" count="1" />
+      <entry feature="uml.ShowDiagram.MODULES.popup" count="1" />
+      <entry feature="uml.ShowDiagram.SPRING" count="1" />
+      <entry feature="uml.ShowDiagram.SpringLocalModels" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.Configure" count="8" />
+      <entry feature="welcome.screen.WelcomeScreen.Configure.Export" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.CreateNewProject" count="12" />
+      <entry feature="welcome.screen.WelcomeScreen.GetFromVcs" count="2" />
+      <entry feature="welcome.screen.WelcomeScreen.ImportProject" count="24" />
+      <entry feature="welcome.screen.WelcomeScreen.OpenProject" count="16" />
+      <entry feature="welcome.screen.WelcomeScreen.Plugins" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.Settings" count="4" />
+    </counts>
+  </component>
+</application>

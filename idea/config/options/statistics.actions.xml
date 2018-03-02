@@ -1,0 +1,283 @@
+<application>
+  <component name="ActionsCollector">
+    <counts>
+      <entry action="$Copy" count="159" />
+      <entry action="$Cut" count="4" />
+      <entry action="$Delete" count="19" />
+      <entry action="$Paste" count="46" />
+      <entry action="$SelectAll" count="1" />
+      <entry action="$Undo" count="333" />
+      <entry action="About" count="1" />
+      <entry action="Access static via class reference" count="2" />
+      <entry action="ActivateFavoritesToolWindow" count="3" />
+      <entry action="ActivateFindToolWindow" count="6" />
+      <entry action="ActivateHierarchyToolWindow" count="3" />
+      <entry action="ActivateMessagesToolWindow" count="9" />
+      <entry action="ActivateProjectToolWindow" count="111" />
+      <entry action="ActivateStructureToolWindow" count="3" />
+      <entry action="ActivateTerminalToolWindow" count="3" />
+      <entry action="ActivateVersionControlToolWindow" count="1" />
+      <entry action="Add TypeCast" count="6" />
+      <entry action="Add exception to catch clause" count="10" />
+      <entry action="Add exception to method signature" count="5" />
+      <entry action="Add method qualifier" count="1" />
+      <entry action="AddToFavoritesPopup" count="1" />
+      <entry action="Back" count="6" />
+      <entry action="BuildArtifact" count="32" />
+      <entry action="Change new operator type" count="2" />
+      <entry action="ChangeSignature" count="1" />
+      <entry action="ChangesView.Revert" count="5" />
+      <entry action="CheckinFiles" count="37" />
+      <entry action="CheckinProject" count="5" />
+      <entry action="ClassNameCompletion" count="8" />
+      <entry action="CloseAllEditors" count="6" />
+      <entry action="CloseAllEditorsButActive" count="2" />
+      <entry action="CloseContent" count="4" />
+      <entry action="CloseProject" count="4" />
+      <entry action="CodeInspection.OnEditor" count="1" />
+      <entry action="Collapse  catch  blocks" count="16" />
+      <entry action="CollapseSelection" count="13" />
+      <entry action="CommentByBlockComment" count="22" />
+      <entry action="CommentByLineComment" count="114" />
+      <entry action="Compile" count="35" />
+      <entry action="CompileDirty" count="1" />
+      <entry action="ConsoleView.ClearAll" count="6" />
+      <entry action="ContextHelp" count="7" />
+      <entry action="CopyAsPlainText" count="1" />
+      <entry action="CopyElement" count="4" />
+      <entry action="CopyPaths" count="1" />
+      <entry action="CopyReference" count="2" />
+      <entry action="Coverage" count="1" />
+      <entry action="Create Class from New" count="1" />
+      <entry action="Create Class from Usage" count="1" />
+      <entry action="Create field for parameter" count="1" />
+      <entry action="Create method from usage" count="1" />
+      <entry action="DatabaseView.CopyAction" count="1" />
+      <entry action="Debug" count="110" />
+      <entry action="DebugClass" count="76" />
+      <entry action="Debugger.AddToWatch" count="11" />
+      <entry action="Debugger.EditFrameSource" count="3" />
+      <entry action="Delete Catch" count="2" />
+      <entry action="Disable inspection" count="1" />
+      <entry action="DumpThreads" count="3" />
+      <entry action="EditSource" count="1" />
+      <entry action="EditSourceInNewWindow" count="2" />
+      <entry action="EditorBackSpace" count="2564" />
+      <entry action="EditorChooseLookupItem" count="2687" />
+      <entry action="EditorChooseLookupItemCompleteStatement" count="202" />
+      <entry action="EditorChooseLookupItemReplace" count="5" />
+      <entry action="EditorCodeBlockEnd" count="6" />
+      <entry action="EditorCodeBlockEndWithSelection" count="2" />
+      <entry action="EditorCodeBlockStart" count="36" />
+      <entry action="EditorCodeBlockStartWithSelection" count="4" />
+      <entry action="EditorCompleteStatement" count="647" />
+      <entry action="EditorContextInfo" count="8" />
+      <entry action="EditorCopy" count="23" />
+      <entry action="EditorCut" count="5" />
+      <entry action="EditorDelete" count="27" />
+      <entry action="EditorDeleteLine" count="13" />
+      <entry action="EditorDeleteToWordEnd" count="2" />
+      <entry action="EditorDown" count="3174" />
+      <entry action="EditorDuplicate" count="3" />
+      <entry action="EditorEnter" count="108" />
+      <entry action="EditorEscape" count="34" />
+      <entry action="EditorJoinLines" count="1" />
+      <entry action="EditorLeft" count="78" />
+      <entry action="EditorLineEnd" count="1" />
+      <entry action="EditorLineEndWithSelection" count="1" />
+      <entry action="EditorLineStart" count="4" />
+      <entry action="EditorLineStartWithSelection" count="1" />
+      <entry action="EditorNextWord" count="15" />
+      <entry action="EditorNextWordWithSelection" count="3" />
+      <entry action="EditorPaste" count="187" />
+      <entry action="EditorPasteSimple" count="3" />
+      <entry action="EditorPreviousWord" count="9" />
+      <entry action="EditorRight" count="90" />
+      <entry action="EditorScrollDown" count="25" />
+      <entry action="EditorScrollUp" count="27" />
+      <entry action="EditorSelectWord" count="8" />
+      <entry action="EditorSplitLine" count="9" />
+      <entry action="EditorStartNewLine" count="173" />
+      <entry action="EditorStartNewLineBefore" count="4" />
+      <entry action="EditorTab" count="134" />
+      <entry action="EditorTextEnd" count="2" />
+      <entry action="EditorTextStart" count="1" />
+      <entry action="EditorToggleCase" count="4" />
+      <entry action="EditorToggleUseSoftWraps" count="3" />
+      <entry action="EditorUnSelectWord" count="9" />
+      <entry action="EditorUnindentSelection" count="7" />
+      <entry action="EditorUp" count="371" />
+      <entry action="EvaluateExpression" count="3" />
+      <entry action="Expand lambda to (Row values) -&gt; {...}" count="1" />
+      <entry action="Expand lambda to (String line) -&gt; {...}" count="1" />
+      <entry action="Expand lambda to (String[] strings) -&gt; {...}" count="2" />
+      <entry action="Expand lambda to (String[] v1) -&gt; {...}" count="1" />
+      <entry action="ExpandAllRegions" count="1" />
+      <entry action="ExpressionTypeInfo" count="1" />
+      <entry action="Extract method from duplicate code" count="1" />
+      <entry action="Extract to method reference" count="1" />
+      <entry action="ExtractMethod" count="5" />
+      <entry action="FileStructurePopup" count="30" />
+      <entry action="Find" count="11" />
+      <entry action="FindInPath" count="31" />
+      <entry action="FindNext" count="13" />
+      <entry action="FindPrevious" count="9" />
+      <entry action="FindUsages" count="35" />
+      <entry action="FindUsagesInFile" count="20" />
+      <entry action="FindWordAtCaret" count="23" />
+      <entry action="Fix Arguments" count="3" />
+      <entry action="Fix Variable Type" count="5" />
+      <entry action="Fix return type" count="2" />
+      <entry action="Generate" count="48" />
+      <entry action="Git.Branches" count="1" />
+      <entry action="Git.Fetch" count="1" />
+      <entry action="Git.Pull" count="28" />
+      <entry action="Git.Rebase" count="1" />
+      <entry action="GotoAction" count="5" />
+      <entry action="GotoBookmark8" count="2" />
+      <entry action="GotoClass" count="24" />
+      <entry action="GotoCustomRegion" count="2" />
+      <entry action="GotoDeclaration" count="503" />
+      <entry action="GotoFile" count="159" />
+      <entry action="GotoImplementation" count="14" />
+      <entry action="GotoLine" count="2" />
+      <entry action="GotoNextError" count="241" />
+      <entry action="GotoPreviousError" count="53" />
+      <entry action="GotoRelated" count="2" />
+      <entry action="GotoSuperMethod" count="14" />
+      <entry action="GotoSymbol" count="2" />
+      <entry action="HideAllWindows" count="103" />
+      <entry action="Implement methods" count="3" />
+      <entry action="ImplementMethods" count="6" />
+      <entry action="Import class" count="22" />
+      <entry action="ImportModule" count="8" />
+      <entry action="ImportProject" count="1" />
+      <entry action="Inline" count="1" />
+      <entry action="Inline variable" count="1" />
+      <entry action="InsertLiveTemplate" count="17" />
+      <entry action="IntroduceVariable" count="2" />
+      <entry action="InvalidateCaches" count="4" />
+      <entry action="Javaee.RefreshDeploymentStatus" count="2" />
+      <entry action="Jdbc.OpenConsole.Any" count="2" />
+      <entry action="JumpToLastWindow" count="36" />
+      <entry action="LocalHistory.ShowHistory" count="15" />
+      <entry action="Make  package-private " count="1" />
+      <entry action="Make  private " count="8" />
+      <entry action="Make Public" count="1" />
+      <entry action="MakeModule" count="1" />
+      <entry action="Maven" count="3" />
+      <entry action="Maven.CollapseAll" count="1" />
+      <entry action="Maven.DownloadAllGroupPopup" count="1" />
+      <entry action="Maven.ExecuteGoal" count="1" />
+      <entry action="Maven.Reimport" count="17" />
+      <entry action="Maven.ReimportProject" count="13" />
+      <entry action="Maven.ShowSettings" count="1" />
+      <entry action="Maven.ToggleOffline" count="2" />
+      <entry action="Maven.ToggleSkipTests" count="4" />
+      <entry action="Maven.Uml.Exclude" count="2" />
+      <entry action="Maven.UpdateFolders" count="3" />
+      <entry action="MethodDown" count="35" />
+      <entry action="MethodUp" count="38" />
+      <entry action="Move" count="1" />
+      <entry action="Move to package  org.apache.solr.schema " count="1" />
+      <entry action="MoveEditorToOppositeTabGroup" count="1" />
+      <entry action="MoveLineDown" count="5" />
+      <entry action="MoveLineUp" count="5" />
+      <entry action="MoveStatementDown" count="2" />
+      <entry action="MoveStatementUp" count="2" />
+      <entry action="MoveTabRight" count="5" />
+      <entry action="Navigate to variable declaration" count="1" />
+      <entry action="NewElement" count="36" />
+      <entry action="NewProject" count="1" />
+      <entry action="NextOccurence" count="1" />
+      <entry action="NextTemplateVariable" count="18" />
+      <entry action="Optimize imports" count="1" />
+      <entry action="OptimizeImports" count="77" />
+      <entry action="OverrideMethods" count="9" />
+      <entry action="ParameterInfo" count="17" />
+      <entry action="PasteMultiple" count="1" />
+      <entry action="PreviousOccurence" count="1" />
+      <entry action="Print" count="1" />
+      <entry action="QuickImplementations" count="8" />
+      <entry action="QuickJavaDoc" count="3" />
+      <entry action="RecentChangedFiles" count="1" />
+      <entry action="RecentChanges" count="1" />
+      <entry action="RecentFiles" count="1" />
+      <entry action="ReformatCode" count="71" />
+      <entry action="Reload in another encoding" count="1" />
+      <entry action="Remove  ParseException  from  addBcpIntoSolrInputDocument  throws list" count="1" />
+      <entry action="Remove redundant cast(s)" count="1" />
+      <entry action="Remove redundant initializer" count="1" />
+      <entry action="Remove unused variable" count="26" />
+      <entry action="Rename Wrong Reference" count="11" />
+      <entry action="RenameElement" count="51" />
+      <entry action="Replace Catch Section with Throws Declaration" count="1" />
+      <entry action="Replace assertEquals with assertTrue_ assertFalse_ or assertNull" count="4" />
+      <entry action="Replace lambda with method reference" count="2" />
+      <entry action="Replace with  Collections.addAll(..._...) " count="1" />
+      <entry action="Replace with  foreach " count="1" />
+      <entry action="Replace with &lt;&gt;" count="1" />
+      <entry action="Replace with expression lambda" count="1" />
+      <entry action="Replace with lambda" count="17" />
+      <entry action="ReplaceInPath" count="2" />
+      <entry action="Rerun" count="35" />
+      <entry action="RestoreDefaultLayout" count="8" />
+      <entry action="Resume" count="401" />
+      <entry action="RevealIn" count="49" />
+      <entry action="Run" count="60" />
+      <entry action="RunClass" count="170" />
+      <entry action="RunCoverage" count="1" />
+      <entry action="Safe delete" count="7" />
+      <entry action="SaveAll" count="22" />
+      <entry action="Scala.MakeExplicit" count="1" />
+      <entry action="SearchEverywhere" count="29" />
+      <entry action="SelectIn" count="11" />
+      <entry action="Set package name to  com.rainsoft.solr.schema " count="3" />
+      <entry action="ShowBookmarks" count="2" />
+      <entry action="ShowErrorDescription" count="2" />
+      <entry action="ShowFilePath" count="9" />
+      <entry action="ShowIntentionActions" count="325" />
+      <entry action="ShowNavBar" count="4" />
+      <entry action="ShowProjectStructureSettings" count="12" />
+      <entry action="ShowRecentTests" count="1" />
+      <entry action="ShowReformatFileDialog" count="1" />
+      <entry action="ShowSettings" count="38" />
+      <entry action="ShowSiblings" count="2" />
+      <entry action="ShowUmlDiagram" count="9" />
+      <entry action="Simplify" count="2" />
+      <entry action="Simplify  i &lt; 9  to true" count="1" />
+      <entry action="StepInto" count="240" />
+      <entry action="StepOut" count="25" />
+      <entry action="StepOver" count="4397" />
+      <entry action="Stop" count="186" />
+      <entry action="Surround with try/catch" count="12" />
+      <entry action="SurroundWith" count="9" />
+      <entry action="SurroundWithLiveTemplate" count="4" />
+      <entry action="Switcher" count="705" />
+      <entry action="SynchronizeCurrentFile" count="6" />
+      <entry action="ToggleBookmark" count="6" />
+      <entry action="ToggleBookmarkWithMnemonic" count="3" />
+      <entry action="ToggleLineBreakpoint" count="188" />
+      <entry action="TypeHierarchy" count="22" />
+      <entry action="UML.ActualSize" count="5" />
+      <entry action="UML.FitContent" count="6" />
+      <entry action="UML.PrintPreview" count="1" />
+      <entry action="UML.SaveDiagram" count="1" />
+      <entry action="UML.ZoomIn" count="1" />
+      <entry action="Vcs.Push" count="5" />
+      <entry action="Vcs.QuickListPopupAction" count="5" />
+      <entry action="Vcs.UpdateProject" count="4" />
+      <entry action="View duplicates like this" count="1" />
+      <entry action="ViewBreakpoints" count="2" />
+      <entry action="ViewToolBar" count="1" />
+      <entry action="VimPluginToggle" count="124" />
+      <entry action="XDebugger.CompareValueWithClipboard" count="1" />
+      <entry action="XDebugger.CopyValue" count="20" />
+      <entry action="XDebugger.MuteBreakpoints" count="2" />
+      <entry action="XDebugger.NewWatch" count="5" />
+      <entry action="XDebugger.RemoveWatch" count="10" />
+      <entry action="context.save" count="1" />
+      <entry action="javaee.UpdateRunningApplication" count="5" />
+    </counts>
+  </component>
+</application>

@@ -1,0 +1,42 @@
+<application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Manifest</id>
+          </State>
+          <State>
+            <id>Spelling</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>SpellCheckingInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="RefactoringSettings">
+    <option name="MOVE_PREVIEW_USAGES" value="false" />
+    <option name="INTRODUCE_PARAMETER_REPLACE_FIELDS_WITH_GETTERS" value="1" />
+    <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="false" />
+    <option name="INTRODUCE_PARAMETER_CREATE_FINALS" value="false" />
+  </component>
+  <component name="SvnApplicationSettings">
+    <option name="myCheckoutURLs">
+      <list>
+        <option value="http://192.168.30.241/svndata/WSHotelReg/ISecCase2016" />
+      </list>
+    </option>
+    <option name="myTypedURLs">
+      <list>
+        <option value="http://192.168.30.241/svndata/WSHotelReg/ISecCase2016" />
+      </list>
+    </option>
+  </component>
+</application>
